@@ -1,8 +1,8 @@
 # Hello everyone! My name is Ryan Shehata. 
 
-It is great to meet you. Currently, I am a graduate student at Pace University, in my final semester of the AQEAP program. I am also a data science consulting intern at Management Solutions. 
+It is great to meet you. Currently, I am a financial risk consultant @ Management Solutions. 
 
-My goal is to one day become an expert in all things data science, machine learning, and in other emerging technologies that use various coding frameworks. I created this repository not only to familiarize myself with the Github platform, but to also learn from others as to how they utilize  code to make the world a beter place. 
+My goal is to one day become an expert in all things data science, machine learning, and other emerging technologies that use various quantitative frameworks. I created this repository not only as a space to share some of my academic projects, but to also learn from others how they utilize code to make the world a better place. 
 
 # Some additional things about me... 
 
