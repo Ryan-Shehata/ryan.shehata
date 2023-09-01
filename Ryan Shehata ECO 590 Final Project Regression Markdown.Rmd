@@ -1,0 +1,91 @@
+---
+title: 'Ryan Shehata ECO 590 Final Project Regression Markdown'
+output: html_document
+date: '2023-05-07'
+---
+
+# Part 4: Regressions (cont.) 
+All interpretations for each regression will be denoted at the end of this markdown.
+
+## Initial Package Installation, Setup, and Notes
+```{r}
+#Bringing in tidyverse, stargazer for table creation, and estimatr to run each regression taking into account heteroskedasticity
+library(tidyverse)
+library(stargazer)
+library(estimatr)
+```
+
+## Setting the Working Directory and Importing the Data
+```{r}
+#First setting the working directory, also importing the data
+setwd("/Users/ryanshehata/Desktop/Spring 2023/ECO 590/presentation-and-final-project-Ryan-Shehata/Final Project/")
+
+pmdata <- read.csv("Ryan Shehata ECO 590 Final Project Dataset v4.csv")
+```
+
+## Running a Preliminary Regression with OLS
+I first want to check the distribution of income to see if I will log it in my regressions. I do this using the histogram function after creating a variable for income.
+```{r}
+hist(pmdata$personal_income_per_capita)
+```
+I see that I should log my income variable so that the distribution can be normalized. I will do so in my regressions.
+
+Using a simple LM function to run my regression, I want to see what the causal effect of particulate matter is on the log of personal income per capita, with my assumption being that an increase in the PM2.5 measure would lead to a decrease in personal income. I use only the time periods (quarterly basis between 2016 and 2019) as a control, rendering my first regression as a time fixed effects model.
+```{r}
+ols1 <- lm(log(personal_income_per_capita) ~ pm2.5_measure + factor(period), data = pmdata) #using factor for period since it is a categorical variable
+summary(ols1)
+
+#Also running with robust standard errors, but the outputs here are the same
+ols1_robust <- lm_robust(log(personal_income_per_capita) ~ pm2.5_measure + factor(period), data = pmdata)
+summary(ols1_robust)
+```
+
+## Running a Regression with a Filtered Dataset
+Using a combination of the filter and grepl functions to capture a specific subset of my data, I run the same regression ran before but only on states NOT located in the 'West' region.
+```{r}
+ols2 <- lm(log(personal_income_per_capita) ~ pm2.5_measure + factor(period), data = pmdata %>% filter(!(grepl("West", region))))
+summary(ols2)
+
+#Again running with robust SE
+ols2_robust <- lm_robust(log(personal_income_per_capita) ~ pm2.5_measure + factor(period), data = pmdata %>% filter(!(grepl("West", region)))) 
+summary(ols2_robust)
+```
+
+## Running Preferred Regression
+This regression contains my main model and is the focus of the project. Here I use both state and period as controls, rendering the model as a two-way fixed effects model. I use states in the regression rather than region or division because it is the most geographically granular of the 3 location variables in my dataset. Alabama is the baseline state and 2016 Q1 is the baseline time period.
+```{r}
+ols3 <- lm(log(personal_income_per_capita) ~ pm2.5_measure + factor(period) + factor(state), data = pmdata) 
+summary(ols3)
+
+#Running with robust SE
+ols3_robust <- lm_robust(log(personal_income_per_capita) ~ pm2.5_measure + factor(period) + factor(state), data = pmdata)
+summary(ols3_robust)
+```
+
+## Creating the Regression Table
+I will place the results of each regression into one table, output as an HTML file within this same folder for ease of view. The link to where I got the stargazer details from can be found [here](https://www.jakeruss.com/cheatsheets/stargazer/). 
+```{r}
+stargazer(ols1, ols2, ols3, type = "html", 
+          title = "Ryan Shehata Regression Results", #add title
+          column.labels = c("Time Controls Only", "Non-West States Only", "State FE Added") , #add clabels
+          covariate.labels = c("PM2.5 Measure", "2016 Q2", "2016 Q3",
+                               "2016 Q4", "2017 Q1", "2017 Q2", "2017 Q3", "2017 Q4",
+                               "2018 Q1", "2018 Q2", "2018 Q3", "2018 Q4", "2019 Q1",
+                               "2019 Q2", "2019 Q3", "2019 Q4"), #rename covariates
+          dep.var.labels = "Log of Personal Income per Capita", #add dependent variable title
+          add.lines = list(c("State FE?", "No", "No", "Yes")), #add a note denoting state FE
+          omit = "state", #omit the state FE to avoid making table clunky
+          out = "Ryan Shehata Final Project Regression Table.html") #outputting into my assignment folder
+```
+## Regression Interpretations
+Let's look at the results from each regression one-by-one. 
+
+1. Looking at the first model where only time controls are included, PM2.5's effect on personal income is statistically significant at the 1% level. As income is logged, I interpret a one microgram per cubic meter increase in the PM2.5 measure leading to a -1.5 percent change in personal income per capita, ceteris paribus. 
+
+2. Looking at the second model where all but Western states are taken into account, again only where time controls are included, PM2.5's effect on personal income is again statistically significant at the 1% level. A one micogram per cubic meater increase in the PM2.5 measure here leads to a -4.2 percent change in personal income per capita, ceteris paribus. 
+
+3. Finally looking at my preferred two-way fixed effects model, particulate matter is no longer statistically significant when state effects are added to the model. Here, every one microgram per cubic meter increase in the PM2.5 measure leads to a -.02 percent change in personal income per capita, ceteris paribus. 
+
+Overall, the regression output does confirm my original hypothesis that an increase in the PM2.5 measure leads to a decrease in income. This may seem like a small effect, but the sheer presence of a pollutant in the air lowering income levels indicates that its effects on health in the long-term cannot be ignored. While particulate matter is a byproduct of various economic activity that can be seen at a surface level as increasing income, the negative health effects caused by prolonged exposure especially in regions where emissions are high outweighs any positive of production. Higher levels of particulate matter lead to increased incidence of respiratory disease, cardiovascular disease, birth defects, and immune system deficiencies. It also has a direct and indirect effect on mental illnesses due to physical ailments high exposure can cause and the effect it has on weather patterns. When health is negatively impacted, economic productivity at an individual level decreases in the long run, as mortality rates, life expectancy, and overall physical well-being are reduced. 
+
+However, we need to remember specific regional nuances, and that every state has different characteristics that can change the expectation for what their respective particulate matter measures would be. In the future, I would like to take a look at other pollutants, and instead of taking a look at its effect on income, its effect on consumption levels. I also would say that other variables should be added in to take the model to the next level, such as population and largest source of economic productivity within the respective state. 
