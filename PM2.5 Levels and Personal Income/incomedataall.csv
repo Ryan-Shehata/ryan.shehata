@@ -1,0 +1,817 @@
+period,state,personal_income_per_capita
+2016 Q1,Alabama,38849
+2016 Q2,Alabama,38941
+2016 Q3,Alabama,39004
+2016 Q4,Alabama,39243
+2017 Q1,Alabama,39815
+2017 Q2,Alabama,40101
+2017 Q3,Alabama,40276
+2017 Q4,Alabama,40661
+2018 Q1,Alabama,41072
+2018 Q2,Alabama,41310
+2018 Q3,Alabama,41608
+2018 Q4,Alabama,42129
+2019 Q1,Alabama,42817
+2019 Q2,Alabama,43150
+2019 Q3,Alabama,43453
+2019 Q4,Alabama,43697
+2016 Q1,Alaska,56378
+2016 Q2,Alaska,56160
+2016 Q3,Alaska,56218
+2016 Q4,Alaska,56553
+2017 Q1,Alaska,56648
+2017 Q2,Alaska,56805
+2017 Q3,Alaska,57436
+2017 Q4,Alaska,57951
+2018 Q1,Alaska,58642
+2018 Q2,Alaska,59093
+2018 Q3,Alaska,60119
+2018 Q4,Alaska,60547
+2019 Q1,Alaska,60895
+2019 Q2,Alaska,61207
+2019 Q3,Alaska,61512
+2019 Q4,Alaska,61583
+2016 Q1,Arizona,40953
+2016 Q2,Arizona,41355
+2016 Q3,Arizona,41720
+2016 Q4,Arizona,41857
+2017 Q1,Arizona,42860
+2017 Q2,Arizona,43208
+2017 Q3,Arizona,43778
+2017 Q4,Arizona,44061
+2018 Q1,Arizona,44760
+2018 Q2,Arizona,45082
+2018 Q3,Arizona,45701
+2018 Q4,Arizona,46246
+2019 Q1,Arizona,47374
+2019 Q2,Arizona,47882
+2019 Q3,Arizona,48356
+2019 Q4,Arizona,48812
+2016 Q1,Arkansas,40542
+2016 Q2,Arkansas,40797
+2016 Q3,Arkansas,40915
+2016 Q4,Arkansas,41214
+2017 Q1,Arkansas,41519
+2017 Q2,Arkansas,41693
+2017 Q3,Arkansas,41921
+2017 Q4,Arkansas,42429
+2018 Q1,Arkansas,42819
+2018 Q2,Arkansas,43033
+2018 Q3,Arkansas,43548
+2018 Q4,Arkansas,44110
+2019 Q1,Arkansas,44043
+2019 Q2,Arkansas,44056
+2019 Q3,Arkansas,44469
+2019 Q4,Arkansas,44681
+2016 Q1,California,55924
+2016 Q2,California,56209
+2016 Q3,California,56808
+2016 Q4,California,57297
+2017 Q1,California,57825
+2017 Q2,California,58471
+2017 Q3,California,59083
+2017 Q4,California,59855
+2018 Q1,California,60272
+2018 Q2,California,61116
+2018 Q3,California,61953
+2018 Q4,California,62728
+2019 Q1,California,63823
+2019 Q2,California,64632
+2019 Q3,California,65071
+2019 Q4,California,66130
+2016 Q1,Colorado,51906
+2016 Q2,Colorado,52048
+2016 Q3,Colorado,52535
+2016 Q4,Colorado,53113
+2017 Q1,Colorado,54074
+2017 Q2,Colorado,54856
+2017 Q3,Colorado,55547
+2017 Q4,Colorado,56458
+2018 Q1,Colorado,57090
+2018 Q2,Colorado,57888
+2018 Q3,Colorado,58932
+2018 Q4,Colorado,59957
+2019 Q1,Colorado,61333
+2019 Q2,Colorado,61807
+2019 Q3,Colorado,62622
+2019 Q4,Colorado,62745
+2016 Q1,Connecticut,68582
+2016 Q2,Connecticut,68683
+2016 Q3,Connecticut,68668
+2016 Q4,Connecticut,68707
+2017 Q1,Connecticut,68785
+2017 Q2,Connecticut,69836
+2017 Q3,Connecticut,70310
+2017 Q4,Connecticut,71029
+2018 Q1,Connecticut,71922
+2018 Q2,Connecticut,72407
+2018 Q3,Connecticut,73597
+2018 Q4,Connecticut,73815
+2019 Q1,Connecticut,75318
+2019 Q2,Connecticut,75290
+2019 Q3,Connecticut,75333
+2019 Q4,Connecticut,76112
+2016 Q1,Delaware,48040
+2016 Q2,Delaware,48564
+2016 Q3,Delaware,48948
+2016 Q4,Delaware,49344
+2017 Q1,Delaware,49892
+2017 Q2,Delaware,50007
+2017 Q3,Delaware,50688
+2017 Q4,Delaware,51009
+2018 Q1,Delaware,51718
+2018 Q2,Delaware,52278
+2018 Q3,Delaware,53123
+2018 Q4,Delaware,53682
+2019 Q1,Delaware,53836
+2019 Q2,Delaware,54172
+2019 Q3,Delaware,54374
+2019 Q4,Delaware,54402
+2016 Q1,District Of Columbia,77551
+2016 Q2,District Of Columbia,78066
+2016 Q3,District Of Columbia,78252
+2016 Q4,District Of Columbia,78898
+2017 Q1,District Of Columbia,79121
+2017 Q2,District Of Columbia,79627
+2017 Q3,District Of Columbia,80373
+2017 Q4,District Of Columbia,80913
+2018 Q1,District Of Columbia,81381
+2018 Q2,District Of Columbia,82074
+2018 Q3,District Of Columbia,83448
+2018 Q4,District Of Columbia,84070
+2019 Q1,District Of Columbia,83766
+2019 Q2,District Of Columbia,84506
+2019 Q3,District Of Columbia,84938
+2019 Q4,District Of Columbia,85361
+2016 Q1,Florida,45883
+2016 Q2,Florida,46179
+2016 Q3,Florida,46686
+2016 Q4,Florida,47083
+2017 Q1,Florida,48333
+2017 Q2,Florida,48902
+2017 Q3,Florida,49256
+2017 Q4,Florida,49759
+2018 Q1,Florida,50499
+2018 Q2,Florida,50985
+2018 Q3,Florida,51875
+2018 Q4,Florida,52717
+2019 Q1,Florida,53833
+2019 Q2,Florida,54403
+2019 Q3,Florida,54702
+2019 Q4,Florida,55216
+2016 Q1,Georgia,42753
+2016 Q2,Georgia,42773
+2016 Q3,Georgia,43072
+2016 Q4,Georgia,43542
+2017 Q1,Georgia,44454
+2017 Q2,Georgia,44752
+2017 Q3,Georgia,45046
+2017 Q4,Georgia,45706
+2018 Q1,Georgia,46115
+2018 Q2,Georgia,46543
+2018 Q3,Georgia,47230
+2018 Q4,Georgia,47491
+2019 Q1,Georgia,48610
+2019 Q2,Georgia,49015
+2019 Q3,Georgia,49223
+2019 Q4,Georgia,49498
+2016 Q1,Hawaii,48678
+2016 Q2,Hawaii,48968
+2016 Q3,Hawaii,49298
+2016 Q4,Hawaii,49671
+2017 Q1,Hawaii,50664
+2017 Q2,Hawaii,50992
+2017 Q3,Hawaii,51347
+2017 Q4,Hawaii,51407
+2018 Q1,Hawaii,51525
+2018 Q2,Hawaii,51929
+2018 Q3,Hawaii,52332
+2018 Q4,Hawaii,52921
+2019 Q1,Hawaii,53836
+2019 Q2,Hawaii,54393
+2019 Q3,Hawaii,55007
+2019 Q4,Hawaii,55511
+2016 Q1,Idaho,39728
+2016 Q2,Idaho,40033
+2016 Q3,Idaho,40264
+2016 Q4,Idaho,40290
+2017 Q1,Idaho,40830
+2017 Q2,Idaho,41403
+2017 Q3,Idaho,41603
+2017 Q4,Idaho,42003
+2018 Q1,Idaho,42631
+2018 Q2,Idaho,42930
+2018 Q3,Idaho,43258
+2018 Q4,Idaho,43961
+2019 Q1,Idaho,45181
+2019 Q2,Idaho,45715
+2019 Q3,Idaho,46209
+2019 Q4,Idaho,46526
+2016 Q1,Illinois,51756
+2016 Q2,Illinois,51850
+2016 Q3,Illinois,51985
+2016 Q4,Illinois,52531
+2017 Q1,Illinois,52738
+2017 Q2,Illinois,53320
+2017 Q3,Illinois,53889
+2017 Q4,Illinois,54493
+2018 Q1,Illinois,55596
+2018 Q2,Illinois,56289
+2018 Q3,Illinois,56822
+2018 Q4,Illinois,57414
+2019 Q1,Illinois,57992
+2019 Q2,Illinois,58106
+2019 Q3,Illinois,58648
+2019 Q4,Illinois,58997
+2016 Q1,Indiana,43170
+2016 Q2,Indiana,43489
+2016 Q3,Indiana,43789
+2016 Q4,Indiana,44117
+2017 Q1,Indiana,44360
+2017 Q2,Indiana,44823
+2017 Q3,Indiana,45167
+2017 Q4,Indiana,45644
+2018 Q1,Indiana,46450
+2018 Q2,Indiana,46674
+2018 Q3,Indiana,47066
+2018 Q4,Indiana,47584
+2019 Q1,Indiana,48380
+2019 Q2,Indiana,48560
+2019 Q3,Indiana,48888
+2019 Q4,Indiana,49155
+2016 Q1,Iowa,46197
+2016 Q2,Iowa,46140
+2016 Q3,Iowa,46431
+2016 Q4,Iowa,46372
+2017 Q1,Iowa,47055
+2017 Q2,Iowa,47174
+2017 Q3,Iowa,47095
+2017 Q4,Iowa,47667
+2018 Q1,Iowa,48317
+2018 Q2,Iowa,48778
+2018 Q3,Iowa,49181
+2018 Q4,Iowa,50324
+2019 Q1,Iowa,50038
+2019 Q2,Iowa,49767
+2019 Q3,Iowa,50766
+2019 Q4,Iowa,50896
+2016 Q1,Kansas,46806
+2016 Q2,Kansas,47186
+2016 Q3,Kansas,47542
+2016 Q4,Kansas,47780
+2017 Q1,Kansas,48208
+2017 Q2,Kansas,48424
+2017 Q3,Kansas,48653
+2017 Q4,Kansas,49258
+2018 Q1,Kansas,49752
+2018 Q2,Kansas,50366
+2018 Q3,Kansas,50931
+2018 Q4,Kansas,51598
+2019 Q1,Kansas,52385
+2019 Q2,Kansas,52522
+2019 Q3,Kansas,53137
+2019 Q4,Kansas,53399
+2016 Q1,Kentucky,39333
+2016 Q2,Kentucky,39579
+2016 Q3,Kentucky,40005
+2016 Q4,Kentucky,40047
+2017 Q1,Kentucky,40363
+2017 Q2,Kentucky,40591
+2017 Q3,Kentucky,40842
+2017 Q4,Kentucky,41221
+2018 Q1,Kentucky,41430
+2018 Q2,Kentucky,41854
+2018 Q3,Kentucky,42078
+2018 Q4,Kentucky,42523
+2019 Q1,Kentucky,43372
+2019 Q2,Kentucky,43689
+2019 Q3,Kentucky,44005
+2019 Q4,Kentucky,44414
+2016 Q1,Louisiana,42355
+2016 Q2,Louisiana,42566
+2016 Q3,Louisiana,42774
+2016 Q4,Louisiana,43281
+2017 Q1,Louisiana,43625
+2017 Q2,Louisiana,43799
+2017 Q3,Louisiana,44254
+2017 Q4,Louisiana,44529
+2018 Q1,Louisiana,45296
+2018 Q2,Louisiana,45906
+2018 Q3,Louisiana,46291
+2018 Q4,Louisiana,46697
+2019 Q1,Louisiana,47369
+2019 Q2,Louisiana,47486
+2019 Q3,Louisiana,47722
+2019 Q4,Louisiana,48085
+2016 Q1,Maine,44334
+2016 Q2,Maine,44688
+2016 Q3,Maine,44753
+2016 Q4,Maine,45156
+2017 Q1,Maine,45791
+2017 Q2,Maine,46085
+2017 Q3,Maine,46630
+2017 Q4,Maine,46963
+2018 Q1,Maine,47487
+2018 Q2,Maine,47916
+2018 Q3,Maine,48389
+2018 Q4,Maine,48723
+2019 Q1,Maine,50061
+2019 Q2,Maine,50516
+2019 Q3,Maine,50910
+2019 Q4,Maine,51398
+2016 Q1,Maryland,56939
+2016 Q2,Maryland,57394
+2016 Q3,Maryland,57797
+2016 Q4,Maryland,58346
+2017 Q1,Maryland,58486
+2017 Q2,Maryland,58906
+2017 Q3,Maryland,59286
+2017 Q4,Maryland,59935
+2018 Q1,Maryland,59817
+2018 Q2,Maryland,60311
+2018 Q3,Maryland,60913
+2018 Q4,Maryland,61235
+2019 Q1,Maryland,61716
+2019 Q2,Maryland,62248
+2019 Q3,Maryland,62405
+2019 Q4,Maryland,62874
+2016 Q1,Massachusetts,63355
+2016 Q2,Massachusetts,63986
+2016 Q3,Massachusetts,64838
+2016 Q4,Massachusetts,64936
+2017 Q1,Massachusetts,65600
+2017 Q2,Massachusetts,66347
+2017 Q3,Massachusetts,67125
+2017 Q4,Massachusetts,67676
+2018 Q1,Massachusetts,68781
+2018 Q2,Massachusetts,69260
+2018 Q3,Massachusetts,69988
+2018 Q4,Massachusetts,70776
+2019 Q1,Massachusetts,72747
+2019 Q2,Massachusetts,73063
+2019 Q3,Massachusetts,73184
+2019 Q4,Massachusetts,73842
+2016 Q1,Michigan,44176
+2016 Q2,Michigan,44432
+2016 Q3,Michigan,44566
+2016 Q4,Michigan,44904
+2017 Q1,Michigan,45266
+2017 Q2,Michigan,45532
+2017 Q3,Michigan,45780
+2017 Q4,Michigan,46286
+2018 Q1,Michigan,47006
+2018 Q2,Michigan,47265
+2018 Q3,Michigan,47660
+2018 Q4,Michigan,47905
+2019 Q1,Michigan,48689
+2019 Q2,Michigan,49054
+2019 Q3,Michigan,49261
+2019 Q4,Michigan,49556
+2016 Q1,Minnesota,52188
+2016 Q2,Minnesota,52240
+2016 Q3,Minnesota,52825
+2016 Q4,Minnesota,53091
+2017 Q1,Minnesota,53920
+2017 Q2,Minnesota,54093
+2017 Q3,Minnesota,54142
+2017 Q4,Minnesota,54899
+2018 Q1,Minnesota,55513
+2018 Q2,Minnesota,56213
+2018 Q3,Minnesota,56797
+2018 Q4,Minnesota,57645
+2019 Q1,Minnesota,57894
+2019 Q2,Minnesota,58192
+2019 Q3,Minnesota,58876
+2019 Q4,Minnesota,59226
+2016 Q1,Mississippi,35898
+2016 Q2,Mississippi,35913
+2016 Q3,Mississippi,35990
+2016 Q4,Mississippi,36268
+2017 Q1,Mississippi,36707
+2017 Q2,Mississippi,36724
+2017 Q3,Mississippi,36985
+2017 Q4,Mississippi,37218
+2018 Q1,Mississippi,37374
+2018 Q2,Mississippi,37761
+2018 Q3,Mississippi,37968
+2018 Q4,Mississippi,38460
+2019 Q1,Mississippi,39041
+2019 Q2,Mississippi,39184
+2019 Q3,Mississippi,39646
+2019 Q4,Mississippi,39917
+2016 Q1,Missouri,44128
+2016 Q2,Missouri,44247
+2016 Q3,Missouri,44446
+2016 Q4,Missouri,44779
+2017 Q1,Missouri,44684
+2017 Q2,Missouri,45036
+2017 Q3,Missouri,45361
+2017 Q4,Missouri,45867
+2018 Q1,Missouri,46246
+2018 Q2,Missouri,47001
+2018 Q3,Missouri,47245
+2018 Q4,Missouri,47826
+2019 Q1,Missouri,48514
+2019 Q2,Missouri,48719
+2019 Q3,Missouri,49229
+2019 Q4,Missouri,49509
+2016 Q1,Montana,43659
+2016 Q2,Montana,43729
+2016 Q3,Montana,44064
+2016 Q4,Montana,44745
+2017 Q1,Montana,45674
+2017 Q2,Montana,46115
+2017 Q3,Montana,46107
+2017 Q4,Montana,46299
+2018 Q1,Montana,46908
+2018 Q2,Montana,47356
+2018 Q3,Montana,47697
+2018 Q4,Montana,48451
+2019 Q1,Montana,49531
+2019 Q2,Montana,49859
+2019 Q3,Montana,50673
+2019 Q4,Montana,50987
+2016 Q1,Nebraska,49569
+2016 Q2,Nebraska,49320
+2016 Q3,Nebraska,49252
+2016 Q4,Nebraska,49326
+2017 Q1,Nebraska,49354
+2017 Q2,Nebraska,49992
+2017 Q3,Nebraska,50237
+2017 Q4,Nebraska,50988
+2018 Q1,Nebraska,50973
+2018 Q2,Nebraska,51333
+2018 Q3,Nebraska,51898
+2018 Q4,Nebraska,53450
+2019 Q1,Nebraska,53352
+2019 Q2,Nebraska,53478
+2019 Q3,Nebraska,54717
+2019 Q4,Nebraska,55158
+2016 Q1,Nevada,44683
+2016 Q2,Nevada,45058
+2016 Q3,Nevada,46265
+2016 Q4,Nevada,45740
+2017 Q1,Nevada,46869
+2017 Q2,Nevada,47376
+2017 Q3,Nevada,47855
+2017 Q4,Nevada,47749
+2018 Q1,Nevada,48982
+2018 Q2,Nevada,49177
+2018 Q3,Nevada,49765
+2018 Q4,Nevada,50732
+2019 Q1,Nevada,51870
+2019 Q2,Nevada,52415
+2019 Q3,Nevada,52735
+2019 Q4,Nevada,53429
+2016 Q1,New Hampshire,55557
+2016 Q2,New Hampshire,56182
+2016 Q3,New Hampshire,56750
+2016 Q4,New Hampshire,56755
+2017 Q1,New Hampshire,57544
+2017 Q2,New Hampshire,57926
+2017 Q3,New Hampshire,58906
+2017 Q4,New Hampshire,59083
+2018 Q1,New Hampshire,60113
+2018 Q2,New Hampshire,60377
+2018 Q3,New Hampshire,61138
+2018 Q4,New Hampshire,61644
+2019 Q1,New Hampshire,64387
+2019 Q2,New Hampshire,64602
+2019 Q3,New Hampshire,64810
+2019 Q4,New Hampshire,65136
+2016 Q1,New Jersey,60171
+2016 Q2,New Jersey,60253
+2016 Q3,New Jersey,60625
+2016 Q4,New Jersey,61000
+2017 Q1,New Jersey,61484
+2017 Q2,New Jersey,62265
+2017 Q3,New Jersey,62784
+2017 Q4,New Jersey,63313
+2018 Q1,New Jersey,63975
+2018 Q2,New Jersey,64480
+2018 Q3,New Jersey,65271
+2018 Q4,New Jersey,65899
+2019 Q1,New Jersey,67680
+2019 Q2,New Jersey,68307
+2019 Q3,New Jersey,68691
+2019 Q4,New Jersey,69023
+2016 Q1,New Mexico,38469
+2016 Q2,New Mexico,38814
+2016 Q3,New Mexico,38866
+2016 Q4,New Mexico,38938
+2017 Q1,New Mexico,39085
+2017 Q2,New Mexico,39289
+2017 Q3,New Mexico,39566
+2017 Q4,New Mexico,39851
+2018 Q1,New Mexico,40465
+2018 Q2,New Mexico,40889
+2018 Q3,New Mexico,41477
+2018 Q4,New Mexico,41955
+2019 Q1,New Mexico,42788
+2019 Q2,New Mexico,43286
+2019 Q3,New Mexico,43840
+2019 Q4,New Mexico,44138
+2016 Q1,New York,58829
+2016 Q2,New York,58966
+2016 Q3,New York,59250
+2016 Q4,New York,60066
+2017 Q1,New York,61692
+2017 Q2,New York,62476
+2017 Q3,New York,63074
+2017 Q4,New York,64376
+2018 Q1,New York,63990
+2018 Q2,New York,64622
+2018 Q3,New York,65273
+2018 Q4,New York,65525
+2019 Q1,New York,66491
+2019 Q2,New York,67303
+2019 Q3,New York,67606
+2019 Q4,New York,68064
+2016 Q1,North Carolina,42684
+2016 Q2,North Carolina,42710
+2016 Q3,North Carolina,42941
+2016 Q4,North Carolina,43405
+2017 Q1,North Carolina,44023
+2017 Q2,North Carolina,44401
+2017 Q3,North Carolina,44731
+2017 Q4,North Carolina,45175
+2018 Q1,North Carolina,45557
+2018 Q2,North Carolina,46054
+2018 Q3,North Carolina,46533
+2018 Q4,North Carolina,47249
+2019 Q1,North Carolina,48188
+2019 Q2,North Carolina,48580
+2019 Q3,North Carolina,48864
+2019 Q4,North Carolina,49303
+2016 Q1,North Dakota,51944
+2016 Q2,North Dakota,51789
+2016 Q3,North Dakota,52207
+2016 Q4,North Dakota,52059
+2017 Q1,North Dakota,52176
+2017 Q2,North Dakota,52668
+2017 Q3,North Dakota,52345
+2017 Q4,North Dakota,52780
+2018 Q1,North Dakota,54037
+2018 Q2,North Dakota,54805
+2018 Q3,North Dakota,55631
+2018 Q4,North Dakota,57073
+2019 Q1,North Dakota,56919
+2019 Q2,North Dakota,56294
+2019 Q3,North Dakota,57592
+2019 Q4,North Dakota,57665
+2016 Q1,Ohio,44870
+2016 Q2,Ohio,45065
+2016 Q3,Ohio,45229
+2016 Q4,Ohio,45645
+2017 Q1,Ohio,46087
+2017 Q2,Ohio,46436
+2017 Q3,Ohio,46822
+2017 Q4,Ohio,47233
+2018 Q1,Ohio,47621
+2018 Q2,Ohio,48017
+2018 Q3,Ohio,48578
+2018 Q4,Ohio,49065
+2019 Q1,Ohio,49565
+2019 Q2,Ohio,49803
+2019 Q3,Ohio,50153
+2019 Q4,Ohio,50610
+2016 Q1,Oklahoma,42591
+2016 Q2,Oklahoma,42440
+2016 Q3,Oklahoma,42468
+2016 Q4,Oklahoma,42629
+2017 Q1,Oklahoma,43523
+2017 Q2,Oklahoma,44299
+2017 Q3,Oklahoma,44672
+2017 Q4,Oklahoma,45147
+2018 Q1,Oklahoma,45600
+2018 Q2,Oklahoma,46027
+2018 Q3,Oklahoma,46654
+2018 Q4,Oklahoma,47311
+2019 Q1,Oklahoma,48554
+2019 Q2,Oklahoma,48397
+2019 Q3,Oklahoma,48707
+2019 Q4,Oklahoma,48864
+2016 Q1,Oregon,45784
+2016 Q2,Oregon,45850
+2016 Q3,Oregon,46006
+2016 Q4,Oregon,46443
+2017 Q1,Oregon,47154
+2017 Q2,Oregon,47845
+2017 Q3,Oregon,48141
+2017 Q4,Oregon,48823
+2018 Q1,Oregon,49672
+2018 Q2,Oregon,50212
+2018 Q3,Oregon,50974
+2018 Q4,Oregon,51400
+2019 Q1,Oregon,52075
+2019 Q2,Oregon,52404
+2019 Q3,Oregon,52760
+2019 Q4,Oregon,53620
+2016 Q1,Pennsylvania,50655
+2016 Q2,Pennsylvania,50920
+2016 Q3,Pennsylvania,51471
+2016 Q4,Pennsylvania,51629
+2017 Q1,Pennsylvania,51568
+2017 Q2,Pennsylvania,52040
+2017 Q3,Pennsylvania,52728
+2017 Q4,Pennsylvania,53294
+2018 Q1,Pennsylvania,54076
+2018 Q2,Pennsylvania,54583
+2018 Q3,Pennsylvania,55468
+2018 Q4,Pennsylvania,56012
+2019 Q1,Pennsylvania,56574
+2019 Q2,Pennsylvania,56873
+2019 Q3,Pennsylvania,57002
+2019 Q4,Pennsylvania,57310
+2016 Q1,Rhode Island,48661
+2016 Q2,Rhode Island,48995
+2016 Q3,Rhode Island,49545
+2016 Q4,Rhode Island,49561
+2017 Q1,Rhode Island,49942
+2017 Q2,Rhode Island,50606
+2017 Q3,Rhode Island,51620
+2017 Q4,Rhode Island,51629
+2018 Q1,Rhode Island,52141
+2018 Q2,Rhode Island,52336
+2018 Q3,Rhode Island,52666
+2018 Q4,Rhode Island,53562
+2019 Q1,Rhode Island,55443
+2019 Q2,Rhode Island,55779
+2019 Q3,Rhode Island,55779
+2019 Q4,Rhode Island,56256
+2016 Q1,South Carolina,40717
+2016 Q2,South Carolina,40978
+2016 Q3,South Carolina,41287
+2016 Q4,South Carolina,41713
+2017 Q1,South Carolina,42336
+2017 Q2,South Carolina,42701
+2017 Q3,South Carolina,42858
+2017 Q4,South Carolina,43103
+2018 Q1,South Carolina,43458
+2018 Q2,South Carolina,43825
+2018 Q3,South Carolina,44333
+2018 Q4,South Carolina,44967
+2019 Q1,South Carolina,46146
+2019 Q2,South Carolina,46472
+2019 Q3,South Carolina,46851
+2019 Q4,South Carolina,47226
+2016 Q1,South Dakota,48974
+2016 Q2,South Dakota,48968
+2016 Q3,South Dakota,49422
+2016 Q4,South Dakota,49344
+2017 Q1,South Dakota,50113
+2017 Q2,South Dakota,50220
+2017 Q3,South Dakota,50077
+2017 Q4,South Dakota,50107
+2018 Q1,South Dakota,51304
+2018 Q2,South Dakota,51425
+2018 Q3,South Dakota,51906
+2018 Q4,South Dakota,53937
+2019 Q1,South Dakota,54510
+2019 Q2,South Dakota,54440
+2019 Q3,South Dakota,55936
+2019 Q4,South Dakota,56304
+2016 Q1,Tennessee,43147
+2016 Q2,Tennessee,43187
+2016 Q3,Tennessee,43616
+2016 Q4,Tennessee,43994
+2017 Q1,Tennessee,44405
+2017 Q2,Tennessee,44705
+2017 Q3,Tennessee,44907
+2017 Q4,Tennessee,45472
+2018 Q1,Tennessee,46060
+2018 Q2,Tennessee,46453
+2018 Q3,Tennessee,47241
+2018 Q4,Tennessee,47738
+2019 Q1,Tennessee,48855
+2019 Q2,Tennessee,49192
+2019 Q3,Tennessee,49502
+2019 Q4,Tennessee,49759
+2016 Q1,Texas,46343
+2016 Q2,Texas,46276
+2016 Q3,Texas,46622
+2016 Q4,Texas,47125
+2017 Q1,Texas,48394
+2017 Q2,Texas,48935
+2017 Q3,Texas,49454
+2017 Q4,Texas,50136
+2018 Q1,Texas,50981
+2018 Q2,Texas,51575
+2018 Q3,Texas,52353
+2018 Q4,Texas,53046
+2019 Q1,Texas,53552
+2019 Q2,Texas,53852
+2019 Q3,Texas,54227
+2019 Q4,Texas,54603
+2016 Q1,Utah,41358
+2016 Q2,Utah,41502
+2016 Q3,Utah,41825
+2016 Q4,Utah,42301
+2017 Q1,Utah,42498
+2017 Q2,Utah,42953
+2017 Q3,Utah,43531
+2017 Q4,Utah,44008
+2018 Q1,Utah,44909
+2018 Q2,Utah,45364
+2018 Q3,Utah,45895
+2018 Q4,Utah,46495
+2019 Q1,Utah,48082
+2019 Q2,Utah,48152
+2019 Q3,Utah,48752
+2019 Q4,Utah,49310
+2016 Q1,Vermont,49474
+2016 Q2,Vermont,49483
+2016 Q3,Vermont,49735
+2016 Q4,Vermont,49681
+2017 Q1,Vermont,50291
+2017 Q2,Vermont,50576
+2017 Q3,Vermont,50993
+2017 Q4,Vermont,51241
+2018 Q1,Vermont,51648
+2018 Q2,Vermont,52160
+2018 Q3,Vermont,52607
+2018 Q4,Vermont,53219
+2019 Q1,Vermont,54960
+2019 Q2,Vermont,55226
+2019 Q3,Vermont,55659
+2019 Q4,Vermont,55867
+2016 Q1,Virginia,52750
+2016 Q2,Virginia,52980
+2016 Q3,Virginia,53367
+2016 Q4,Virginia,53934
+2017 Q1,Virginia,54286
+2017 Q2,Virginia,54691
+2017 Q3,Virginia,55061
+2017 Q4,Virginia,55487
+2018 Q1,Virginia,55860
+2018 Q2,Virginia,56231
+2018 Q3,Virginia,56844
+2018 Q4,Virginia,57492
+2019 Q1,Virginia,58353
+2019 Q2,Virginia,58817
+2019 Q3,Virginia,59342
+2019 Q4,Virginia,59760
+2016 Q1,Washington,54354
+2016 Q2,Washington,54566
+2016 Q3,Washington,54929
+2016 Q4,Washington,55800
+2017 Q1,Washington,56444
+2017 Q2,Washington,56960
+2017 Q3,Washington,57503
+2017 Q4,Washington,58222
+2018 Q1,Washington,59282
+2018 Q2,Washington,59602
+2018 Q3,Washington,60625
+2018 Q4,Washington,61385
+2019 Q1,Washington,63275
+2019 Q2,Washington,63884
+2019 Q3,Washington,64436
+2019 Q4,Washington,65123
+2016 Q1,West Virginia,37199
+2016 Q2,West Virginia,37309
+2016 Q3,West Virginia,37371
+2016 Q4,West Virginia,37654
+2017 Q1,West Virginia,38712
+2017 Q2,West Virginia,38869
+2017 Q3,West Virginia,39293
+2017 Q4,West Virginia,39658
+2018 Q1,West Virginia,40198
+2018 Q2,West Virginia,40839
+2018 Q3,West Virginia,41779
+2018 Q4,West Virginia,42266
+2019 Q1,West Virginia,42699
+2019 Q2,West Virginia,43012
+2019 Q3,West Virginia,43123
+2019 Q4,West Virginia,42928
+2016 Q1,Wisconsin,46902
+2016 Q2,Wisconsin,47011
+2016 Q3,Wisconsin,47400
+2016 Q4,Wisconsin,47461
+2017 Q1,Wisconsin,48052
+2017 Q2,Wisconsin,48437
+2017 Q3,Wisconsin,49121
+2017 Q4,Wisconsin,49404
+2018 Q1,Wisconsin,50268
+2018 Q2,Wisconsin,50462
+2018 Q3,Wisconsin,51129
+2018 Q4,Wisconsin,51753
+2019 Q1,Wisconsin,52371
+2019 Q2,Wisconsin,52774
+2019 Q3,Wisconsin,52908
+2019 Q4,Wisconsin,53502
+2016 Q1,Wyoming,55211
+2016 Q2,Wyoming,54646
+2016 Q3,Wyoming,54625
+2016 Q4,Wyoming,54992
+2017 Q1,Wyoming,56021
+2017 Q2,Wyoming,57055
+2017 Q3,Wyoming,57418
+2017 Q4,Wyoming,58009
+2018 Q1,Wyoming,59028
+2018 Q2,Wyoming,59831
+2018 Q3,Wyoming,60917
+2018 Q4,Wyoming,61984
+2019 Q1,Wyoming,63294
+2019 Q2,Wyoming,63786
+2019 Q3,Wyoming,64536
+2019 Q4,Wyoming,64732

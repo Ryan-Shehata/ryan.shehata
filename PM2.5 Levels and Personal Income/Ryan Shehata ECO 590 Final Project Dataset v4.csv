@@ -1,0 +1,817 @@
+year,quarter,state,period,pm2.5_measure,personal_income_per_capita,region,division
+2016,1,Alabama,2016 Q1,7.596292,38849,South,East South Central
+2016,2,Alabama,2016 Q2,9.191956,38941,South,East South Central
+2016,3,Alabama,2016 Q3,8.421384,39004,South,East South Central
+2016,4,Alabama,2016 Q4,8.758739130434781,39243,South,East South Central
+2016,1,Alaska,2016 Q1,13.7576,56378,West,Pacific
+2016,2,Alaska,2016 Q2,3.21684,56160,West,Pacific
+2016,3,Alaska,2016 Q3,3.47976,56218,West,Pacific
+2016,4,Alaska,2016 Q4,16.06688,56553,West,Pacific
+2016,1,Arizona,2016 Q1,8.035993333333334,40953,West,Mountain
+2016,2,Arizona,2016 Q2,7.642807142857143,41355,West,Mountain
+2016,3,Arizona,2016 Q3,7.604326666666666,41720,West,Mountain
+2016,4,Arizona,2016 Q4,7.897393333333333,41857,West,Mountain
+2016,1,Arkansas,2016 Q1,7.2861166666666675,40542,South,West South Central
+2016,2,Arkansas,2016 Q2,8.220341666666666,40797,South,West South Central
+2016,3,Arkansas,2016 Q3,10.130308333333334,40915,South,West South Central
+2016,4,Arkansas,2016 Q4,10.030241666666667,41214,South,West South Central
+2016,1,California,2016 Q1,9.83886,55924,West,Pacific
+2016,2,California,2016 Q2,7.857602777777777,56209,West,Pacific
+2016,3,California,2016 Q3,10.550939999999999,56808,West,Pacific
+2016,4,California,2016 Q4,11.27192676056338,57297,West,Pacific
+2016,1,Colorado,2016 Q1,6.162205882352941,51906,West,Mountain
+2016,2,Colorado,2016 Q2,4.681570588235294,52048,West,Mountain
+2016,3,Colorado,2016 Q3,6.038075,52535,West,Mountain
+2016,4,Colorado,2016 Q4,6.683691666666667,53113,West,Mountain
+2016,1,Connecticut,2016 Q1,7.2772499999999996,68582,Northeast,New England
+2016,2,Connecticut,2016 Q2,5.845645454545454,68683,Northeast,New England
+2016,3,Connecticut,2016 Q3,6.3742,68668,Northeast,New England
+2016,4,Connecticut,2016 Q4,7.081100000000001,68707,Northeast,New England
+2016,1,Delaware,2016 Q1,8.5656125,48040,South,South Atlantic
+2016,2,Delaware,2016 Q2,6.6804375,48564,South,South Atlantic
+2016,3,Delaware,2016 Q3,7.55615,48948,South,South Atlantic
+2016,4,Delaware,2016 Q4,7.4347875000000005,49344,South,South Atlantic
+2016,2,District Of Columbia,2016 Q2,7.0680499999999995,78066,South,South Atlantic
+2016,3,District Of Columbia,2016 Q3,8.3961,78252,South,South Atlantic
+2016,4,District Of Columbia,2016 Q4,7.665299999999999,78898,South,South Atlantic
+2016,1,District Of Columbia,2016 Q1,9.088433333333334,77551,South,South Atlantic
+2016,1,Florida,2016 Q1,7.130839473684211,45883,South,South Atlantic
+2016,2,Florida,2016 Q2,6.832831578947369,46179,South,South Atlantic
+2016,3,Florida,2016 Q3,5.929471052631579,46686,South,South Atlantic
+2016,4,Florida,2016 Q4,6.402272222222222,47083,South,South Atlantic
+2016,1,Georgia,2016 Q1,8.1052,42753,South,South Atlantic
+2016,2,Georgia,2016 Q2,9.106114814814815,42773,South,South Atlantic
+2016,3,Georgia,2016 Q3,8.03367037037037,43072,South,South Atlantic
+2016,4,Georgia,2016 Q4,10.23074074074074,43542,South,South Atlantic
+2016,1,Hawaii,2016 Q1,,48678,West,Pacific
+2016,2,Hawaii,2016 Q2,,48968,West,Pacific
+2016,3,Hawaii,2016 Q3,,49298,West,Pacific
+2016,4,Hawaii,2016 Q4,,49671,West,Pacific
+2016,1,Idaho,2016 Q1,9.74115,39728,West,Mountain
+2016,2,Idaho,2016 Q2,4.54845,40033,West,Mountain
+2016,3,Idaho,2016 Q3,6.447450000000001,40264,West,Mountain
+2016,4,Idaho,2016 Q4,9.48045,40290,West,Mountain
+2016,1,Illinois,2016 Q1,8.643428571428572,51756,Midwest,East North Central
+2016,2,Illinois,2016 Q2,8.135940476190475,51850,Midwest,East North Central
+2016,3,Illinois,2016 Q3,8.785852380952381,51985,Midwest,East North Central
+2016,4,Illinois,2016 Q4,8.77341,52531,Midwest,East North Central
+2016,1,Indiana,2016 Q1,8.836244444444445,43170,Midwest,East North Central
+2016,2,Indiana,2016 Q2,8.286735555555556,43489,Midwest,East North Central
+2016,3,Indiana,2016 Q3,8.372166666666667,43789,Midwest,East North Central
+2016,4,Indiana,2016 Q4,8.707329545454545,44117,Midwest,East North Central
+2016,1,Iowa,2016 Q1,8.971396153846154,46197,Midwest,West North Central
+2016,2,Iowa,2016 Q2,6.942453846153845,46140,Midwest,West North Central
+2016,3,Iowa,2016 Q3,7.193703846153846,46431,Midwest,West North Central
+2016,4,Iowa,2016 Q4,6.9111,46372,Midwest,West North Central
+2016,1,Kansas,2016 Q1,7.1116090909090905,46806,Midwest,West North Central
+2016,2,Kansas,2016 Q2,7.040981818181819,47186,Midwest,West North Central
+2016,3,Kansas,2016 Q3,8.30995,47542,Midwest,West North Central
+2016,4,Kansas,2016 Q4,7.089333333333333,47780,Midwest,West North Central
+2016,1,Kentucky,2016 Q1,7.322173913043478,39333,South,East South Central
+2016,2,Kentucky,2016 Q2,7.639573913043478,39579,South,East South Central
+2016,3,Kentucky,2016 Q3,8.09534347826087,40005,South,East South Central
+2016,4,Kentucky,2016 Q4,9.91106956521739,40047,South,East South Central
+2016,1,Louisiana,2016 Q1,7.367223529411765,42355,South,West South Central
+2016,2,Louisiana,2016 Q2,7.861382352941176,42566,South,West South Central
+2016,3,Louisiana,2016 Q3,8.765894117647058,42774,South,West South Central
+2016,4,Louisiana,2016 Q4,8.417235294117646,43281,South,West South Central
+2016,1,Maine,2016 Q1,5.768592307692307,44334,Northeast,New England
+2016,2,Maine,2016 Q2,4.4596,44688,Northeast,New England
+2016,3,Maine,2016 Q3,4.9374,44753,Northeast,New England
+2016,4,Maine,2016 Q4,6.019464285714286,45156,Northeast,New England
+2016,1,Maryland,2016 Q1,9.306836363636364,56939,South,South Atlantic
+2016,2,Maryland,2016 Q2,6.547533333333333,57394,South,South Atlantic
+2016,3,Maryland,2016 Q3,7.520255555555555,57797,South,South Atlantic
+2016,4,Maryland,2016 Q4,7.678233333333334,58346,South,South Atlantic
+2016,1,Massachusetts,2016 Q1,5.2777111111111115,63355,Northeast,New England
+2016,2,Massachusetts,2016 Q2,5.717288888888889,63986,Northeast,New England
+2016,3,Massachusetts,2016 Q3,5.886394444444445,64838,Northeast,New England
+2016,4,Massachusetts,2016 Q4,6.5533222222222225,64936,Northeast,New England
+2016,1,Michigan,2016 Q1,8.717256666666666,44176,Midwest,East North Central
+2016,2,Michigan,2016 Q2,7.211254838709677,44432,Midwest,East North Central
+2016,3,Michigan,2016 Q3,7.306222580645161,44566,Midwest,East North Central
+2016,4,Michigan,2016 Q4,8.262287096774193,44904,Midwest,East North Central
+2016,1,Minnesota,2016 Q1,8.435415384615384,52188,Midwest,West North Central
+2016,2,Minnesota,2016 Q2,5.429584615384615,52240,Midwest,West North Central
+2016,3,Minnesota,2016 Q3,5.079738461538461,52825,Midwest,West North Central
+2016,4,Minnesota,2016 Q4,5.037323076923077,53091,Midwest,West North Central
+2016,1,Mississippi,2016 Q1,7.099670000000001,35898,South,East South Central
+2016,2,Mississippi,2016 Q2,8.41637,35913,South,East South Central
+2016,3,Mississippi,2016 Q3,8.39333,35990,South,East South Central
+2016,4,Mississippi,2016 Q4,8.96423,36268,South,East South Central
+2016,1,Missouri,2016 Q1,9.0652,44128,Midwest,West North Central
+2016,2,Missouri,2016 Q2,7.4421,44247,Midwest,West North Central
+2016,3,Missouri,2016 Q3,9.9571,44446,Midwest,West North Central
+2016,4,Missouri,2016 Q4,10.045,44779,Midwest,West North Central
+2016,1,Montana,2016 Q1,5.907525,43659,West,Mountain
+2016,2,Montana,2016 Q2,3.71845,43729,West,Mountain
+2016,3,Montana,2016 Q3,4.31985,44064,West,Mountain
+2016,4,Montana,2016 Q4,5.396175,44745,West,Mountain
+2016,1,Nebraska,2016 Q1,6.2606875,49569,Midwest,West North Central
+2016,2,Nebraska,2016 Q2,6.233625,49320,Midwest,West North Central
+2016,3,Nebraska,2016 Q3,6.9735625,49252,Midwest,West North Central
+2016,4,Nebraska,2016 Q4,5.5993125,49326,Midwest,West North Central
+2016,1,Nevada,2016 Q1,6.471260000000001,44683,West,Mountain
+2016,2,Nevada,2016 Q2,4.97926,45058,West,Mountain
+2016,3,Nevada,2016 Q3,6.953239999999999,46265,West,Mountain
+2016,4,Nevada,2016 Q4,8.29338,45740,West,Mountain
+2016,1,New Hampshire,2016 Q1,4.3872374999999995,55557,Northeast,New England
+2016,2,New Hampshire,2016 Q2,4.3732625,56182,Northeast,New England
+2016,3,New Hampshire,2016 Q3,5.684677777777778,56750,Northeast,New England
+2016,4,New Hampshire,2016 Q4,5.203457142857142,56755,Northeast,New England
+2016,1,New Jersey,2016 Q1,8.280042105263158,60171,Northeast,Middle Atlantic
+2016,2,New Jersey,2016 Q2,7.355005263157895,60253,Northeast,Middle Atlantic
+2016,3,New Jersey,2016 Q3,7.73581052631579,60625,Northeast,Middle Atlantic
+2016,4,New Jersey,2016 Q4,7.982184210526316,61000,Northeast,Middle Atlantic
+2016,1,New Mexico,2016 Q1,5.2349000000000006,38469,West,Mountain
+2016,2,New Mexico,2016 Q2,7.10286,38814,West,Mountain
+2016,3,New Mexico,2016 Q3,5.48234,38866,West,Mountain
+2016,4,New Mexico,2016 Q4,6.556139999999999,38938,West,Mountain
+2016,1,New York,2016 Q1,6.884292,58829,Northeast,Middle Atlantic
+2016,2,New York,2016 Q2,6.394878260869565,58966,Northeast,Middle Atlantic
+2016,3,New York,2016 Q3,6.791469565217391,59250,Northeast,Middle Atlantic
+2016,4,New York,2016 Q4,6.754873913043478,60066,Northeast,Middle Atlantic
+2016,1,North Carolina,2016 Q1,7.541768181818182,42684,South,South Atlantic
+2016,2,North Carolina,2016 Q2,7.740966666666667,42710,South,South Atlantic
+2016,3,North Carolina,2016 Q3,8.027909523809523,42941,South,South Atlantic
+2016,4,North Carolina,2016 Q4,9.889542857142857,43405,South,South Atlantic
+2016,1,North Dakota,2016 Q1,5.0683,51944,Midwest,West North Central
+2016,2,North Dakota,2016 Q2,4.836650000000001,51789,Midwest,West North Central
+2016,3,North Dakota,2016 Q3,4.5032499999999995,52207,Midwest,West North Central
+2016,4,North Dakota,2016 Q4,4.0576,52059,Midwest,West North Central
+2016,1,Ohio,2016 Q1,8.470848611111112,44870,Midwest,East North Central
+2016,2,Ohio,2016 Q2,8.47003918918919,45065,Midwest,East North Central
+2016,3,Ohio,2016 Q3,7.991752112676056,45229,Midwest,East North Central
+2016,4,Ohio,2016 Q4,9.591590140845069,45645,Midwest,East North Central
+2016,1,Oklahoma,2016 Q1,6.5572857142857135,42591,South,West South Central
+2016,2,Oklahoma,2016 Q2,7.0013,42440,South,West South Central
+2016,3,Oklahoma,2016 Q3,9.901014285714284,42468,South,West South Central
+2016,4,Oklahoma,2016 Q4,7.918157142857143,42629,South,West South Central
+2016,1,Oregon,2016 Q1,7.193025,45784,West,Pacific
+2016,2,Oregon,2016 Q2,4.42248125,45850,West,Pacific
+2016,3,Oregon,2016 Q3,4.557,46006,West,Pacific
+2016,4,Oregon,2016 Q4,8.6572625,46443,West,Pacific
+2016,1,Pennsylvania,2016 Q1,9.589946875,50655,Northeast,Middle Atlantic
+2016,2,Pennsylvania,2016 Q2,8.611496875,50920,Northeast,Middle Atlantic
+2016,3,Pennsylvania,2016 Q3,8.80413125,51471,Northeast,Middle Atlantic
+2016,4,Pennsylvania,2016 Q4,9.279164,51629,Northeast,Middle Atlantic
+2016,1,Rhode Island,2016 Q1,5.9825800000000005,48661,Northeast,New England
+2016,2,Rhode Island,2016 Q2,5.60072,48995,Northeast,New England
+2016,3,Rhode Island,2016 Q3,6.208419999999999,49545,Northeast,New England
+2016,4,Rhode Island,2016 Q4,5.93766,49561,Northeast,New England
+2016,1,South Carolina,2016 Q1,7.4549642857142855,40717,South,South Atlantic
+2016,2,South Carolina,2016 Q2,8.135142857142856,40978,South,South Atlantic
+2016,3,South Carolina,2016 Q3,7.395964285714285,41287,South,South Atlantic
+2016,4,South Carolina,2016 Q4,9.673725000000001,41713,South,South Atlantic
+2016,1,South Dakota,2016 Q1,6.635814285714285,48974,Midwest,West North Central
+2016,2,South Dakota,2016 Q2,5.243071428571429,48968,Midwest,West North Central
+2016,3,South Dakota,2016 Q3,5.227885714285714,49422,Midwest,West North Central
+2016,4,South Dakota,2016 Q4,4.980600000000001,49344,Midwest,West North Central
+2016,1,Tennessee,2016 Q1,7.123492857142857,43147,South,East South Central
+2016,2,Tennessee,2016 Q2,7.770492857142857,43187,South,East South Central
+2016,3,Tennessee,2016 Q3,8.094575,43616,South,East South Central
+2016,4,Tennessee,2016 Q4,10.440520588235293,43994,South,East South Central
+2016,1,Texas,2016 Q1,7.918393103448276,46343,South,West South Central
+2016,2,Texas,2016 Q2,8.751185714285715,46276,South,West South Central
+2016,3,Texas,2016 Q3,9.651525000000001,46622,South,West South Central
+2016,4,Texas,2016 Q4,8.434764285714285,47125,South,West South Central
+2016,1,Utah,2016 Q1,9.639326666666667,41358,West,Mountain
+2016,2,Utah,2016 Q2,4.517246666666667,41502,West,Mountain
+2016,3,Utah,2016 Q3,8.374129411764706,41825,West,Mountain
+2016,4,Utah,2016 Q4,7.687342857142857,42301,West,Mountain
+2016,1,Vermont,2016 Q1,5.433971428571428,49474,Northeast,New England
+2016,2,Vermont,2016 Q2,5.35222,49483,Northeast,New England
+2016,3,Vermont,2016 Q3,5.56102,49735,Northeast,New England
+2016,4,Vermont,2016 Q4,4.95636,49681,Northeast,New England
+2016,1,Virginia,2016 Q1,7.064690000000001,52750,South,South Atlantic
+2016,2,Virginia,2016 Q2,6.30987619047619,52980,South,South Atlantic
+2016,3,Virginia,2016 Q3,7.58315,53367,South,South Atlantic
+2016,4,Virginia,2016 Q4,7.296445454545454,53934,South,South Atlantic
+2016,1,Washington,2016 Q1,10.54887142857143,54354,West,Pacific
+2016,2,Washington,2016 Q2,5.81002,54566,West,Pacific
+2016,3,Washington,2016 Q3,5.528700000000001,54929,West,Pacific
+2016,4,Washington,2016 Q4,7.555574999999999,55800,West,Pacific
+2016,1,West Virginia,2016 Q1,8.24148,37199,South,South Atlantic
+2016,2,West Virginia,2016 Q2,7.738933333333334,37309,South,South Atlantic
+2016,3,West Virginia,2016 Q3,8.148386666666665,37371,South,South Atlantic
+2016,4,West Virginia,2016 Q4,9.00096,37654,South,South Atlantic
+2016,1,Wisconsin,2016 Q1,9.040229166666666,46902,Midwest,East North Central
+2016,2,Wisconsin,2016 Q2,6.405433333333334,47011,Midwest,East North Central
+2016,3,Wisconsin,2016 Q3,5.784970833333333,47400,Midwest,East North Central
+2016,4,Wisconsin,2016 Q4,5.339637499999999,47461,Midwest,East North Central
+2016,1,Wyoming,2016 Q1,4.248039130434782,55211,West,Mountain
+2016,2,Wyoming,2016 Q2,4.336788888888889,54646,West,Mountain
+2016,3,Wyoming,2016 Q3,5.1598434782608695,54625,West,Mountain
+2016,4,Wyoming,2016 Q4,4.853326086956521,54992,West,Mountain
+2017,1,Alabama,2017 Q1,8.743692,39815,South,East South Central
+2017,2,Alabama,2017 Q2,7.671616,40101,South,East South Central
+2017,3,Alabama,2017 Q3,9.574792,40276,South,East South Central
+2017,4,Alabama,2017 Q4,8.591016,40661,South,East South Central
+2017,1,Alaska,2017 Q1,19.83048888888889,56648,West,Pacific
+2017,2,Alaska,2017 Q2,4.377445454545454,56805,West,Pacific
+2017,3,Alaska,2017 Q3,4.46345,57436,West,Pacific
+2017,4,Alaska,2017 Q4,12.6288,57951,West,Pacific
+2017,1,Arizona,2017 Q1,6.4568,42860,West,Mountain
+2017,2,Arizona,2017 Q2,8.073357142857143,43208,West,Mountain
+2017,3,Arizona,2017 Q3,7.773933333333333,43778,West,Mountain
+2017,4,Arizona,2017 Q4,10.406408333333333,44061,West,Mountain
+2017,1,Arkansas,2017 Q1,7.6313666666666675,41519,South,West South Central
+2017,2,Arkansas,2017 Q2,7.557383333333333,41693,South,West South Central
+2017,3,Arkansas,2017 Q3,10.261566666666667,41921,South,West South Central
+2017,4,Arkansas,2017 Q4,8.767041666666666,42429,South,West South Central
+2017,1,California,2017 Q1,8.464246478873239,57825,West,Pacific
+2017,2,California,2017 Q2,7.687021621621622,58471,West,Pacific
+2017,3,California,2017 Q3,11.210383116883119,59083,West,Pacific
+2017,4,California,2017 Q4,15.093994666666667,59855,West,Pacific
+2017,1,Colorado,2017 Q1,6.000483333333334,54074,West,Mountain
+2017,2,Colorado,2017 Q2,4.9652416666666666,54856,West,Mountain
+2017,3,Colorado,2017 Q3,8.972791666666668,55547,West,Mountain
+2017,4,Colorado,2017 Q4,6.712458333333333,56458,West,Mountain
+2017,1,Connecticut,2017 Q1,6.153177777777778,68785,Northeast,New England
+2017,2,Connecticut,2017 Q2,5.033033333333333,69836,Northeast,New England
+2017,3,Connecticut,2017 Q3,6.217755555555556,70310,Northeast,New England
+2017,4,Connecticut,2017 Q4,6.911388888888889,71029,Northeast,New England
+2017,1,Delaware,2017 Q1,7.1318625,49892,South,South Atlantic
+2017,2,Delaware,2017 Q2,5.9796,50007,South,South Atlantic
+2017,3,Delaware,2017 Q3,7.3809875,50688,South,South Atlantic
+2017,4,Delaware,2017 Q4,8.0747625,51009,South,South Atlantic
+2017,1,District Of Columbia,2017 Q1,6.6444,79121,South,South Atlantic
+2017,2,District Of Columbia,2017 Q2,6.93,79627,South,South Atlantic
+2017,3,District Of Columbia,2017 Q3,7.9821,80373,South,South Atlantic
+2017,4,District Of Columbia,2017 Q4,8.3357,80913,South,South Atlantic
+2017,1,Florida,2017 Q1,7.37419705882353,48333,South,South Atlantic
+2017,2,Florida,2017 Q2,7.65605294117647,48902,South,South Atlantic
+2017,3,Florida,2017 Q3,7.03055,49256,South,South Atlantic
+2017,4,Florida,2017 Q4,7.050434482758621,49759,South,South Atlantic
+2017,1,Georgia,2017 Q1,9.365044444444445,44454,South,South Atlantic
+2017,2,Georgia,2017 Q2,8.011636,44752,South,South Atlantic
+2017,3,Georgia,2017 Q3,8.873776,45046,South,South Atlantic
+2017,4,Georgia,2017 Q4,8.646936,45706,South,South Atlantic
+2017,1,Hawaii,2017 Q1,,50664,West,Pacific
+2017,2,Hawaii,2017 Q2,,50992,West,Pacific
+2017,3,Hawaii,2017 Q3,,51347,West,Pacific
+2017,4,Hawaii,2017 Q4,,51407,West,Pacific
+2017,1,Idaho,2017 Q1,11.006033333333333,40830,West,Mountain
+2017,2,Idaho,2017 Q2,3.8402222222222218,41403,West,Mountain
+2017,3,Idaho,2017 Q3,12.634096,41603,West,Mountain
+2017,4,Idaho,2017 Q4,8.768744444444444,42003,West,Mountain
+2017,1,Illinois,2017 Q1,9.065029411764707,52738,Midwest,East North Central
+2017,2,Illinois,2017 Q2,6.877729411764706,53320,Midwest,East North Central
+2017,3,Illinois,2017 Q3,9.434923529411764,53889,Midwest,East North Central
+2017,4,Illinois,2017 Q4,8.58370909090909,54493,Midwest,East North Central
+2017,1,Indiana,2017 Q1,8.986952380952381,44360,Midwest,East North Central
+2017,2,Indiana,2017 Q2,6.926872727272727,44823,Midwest,East North Central
+2017,3,Indiana,2017 Q3,9.408154545454545,45167,Midwest,East North Central
+2017,4,Indiana,2017 Q4,8.528861363636365,45644,Midwest,East North Central
+2017,1,Iowa,2017 Q1,7.8164423076923075,47055,Midwest,West North Central
+2017,2,Iowa,2017 Q2,6.217146153846154,47174,Midwest,West North Central
+2017,3,Iowa,2017 Q3,8.695065217391305,47095,Midwest,West North Central
+2017,4,Iowa,2017 Q4,7.044669565217391,47667,Midwest,West North Central
+2017,1,Kansas,2017 Q1,8.142922222222222,48208,Midwest,West North Central
+2017,2,Kansas,2017 Q2,6.906642857142857,48424,Midwest,West North Central
+2017,3,Kansas,2017 Q3,9.178528571428572,48653,Midwest,West North Central
+2017,4,Kansas,2017 Q4,7.352716666666667,49258,Midwest,West North Central
+2017,1,Kentucky,2017 Q1,7.226004347826088,40363,South,East South Central
+2017,2,Kentucky,2017 Q2,6.626708695652174,40591,South,East South Central
+2017,3,Kentucky,2017 Q3,9.148947826086957,40842,South,East South Central
+2017,4,Kentucky,2017 Q4,8.09425652173913,41221,South,East South Central
+2017,1,Louisiana,2017 Q1,6.967429411764706,43625,South,West South Central
+2017,2,Louisiana,2017 Q2,8.9247,43799,South,West South Central
+2017,3,Louisiana,2017 Q3,9.303217647058823,44254,South,West South Central
+2017,4,Louisiana,2017 Q4,8.032235294117648,44529,South,West South Central
+2017,1,Maine,2017 Q1,6.425876923076923,45791,Northeast,New England
+2017,2,Maine,2017 Q2,5.37625,46085,Northeast,New England
+2017,3,Maine,2017 Q3,5.8231,46630,Northeast,New England
+2017,4,Maine,2017 Q4,6.066976923076923,46963,Northeast,New England
+2017,1,Maryland,2017 Q1,6.803966666666667,58486,South,South Atlantic
+2017,2,Maryland,2017 Q2,6.418899999999999,58906,South,South Atlantic
+2017,3,Maryland,2017 Q3,7.86078,59286,South,South Atlantic
+2017,4,Maryland,2017 Q4,8.0154,59935,South,South Atlantic
+2017,1,Massachusetts,2017 Q1,5.467138888888889,65600,Northeast,New England
+2017,2,Massachusetts,2017 Q2,4.44153125,66347,Northeast,New England
+2017,3,Massachusetts,2017 Q3,6.719925,67125,Northeast,New England
+2017,4,Massachusetts,2017 Q4,6.2835375,67676,Northeast,New England
+2017,1,Michigan,2017 Q1,9.541667741935484,45266,Midwest,East North Central
+2017,2,Michigan,2017 Q2,5.859906896551724,45532,Midwest,East North Central
+2017,3,Michigan,2017 Q3,8.442962068965517,45780,Midwest,East North Central
+2017,4,Michigan,2017 Q4,8.097042857142856,46286,Midwest,East North Central
+2017,1,Minnesota,2017 Q1,7.2728153846153845,53920,Midwest,West North Central
+2017,2,Minnesota,2017 Q2,5.155823076923077,54093,Midwest,West North Central
+2017,3,Minnesota,2017 Q3,7.377446153846154,54142,Midwest,West North Central
+2017,4,Minnesota,2017 Q4,5.3592,54899,Midwest,West North Central
+2017,1,Mississippi,2017 Q1,6.93257,36707,South,East South Central
+2017,2,Mississippi,2017 Q2,7.58185,36724,South,East South Central
+2017,3,Mississippi,2017 Q3,9.33768,36985,South,East South Central
+2017,4,Mississippi,2017 Q4,8.090309999999999,37218,South,East South Central
+2017,1,Missouri,2017 Q1,10.193349999999999,44684,Midwest,West North Central
+2017,2,Missouri,2017 Q2,6.6998,45036,Midwest,West North Central
+2017,3,Missouri,2017 Q3,9.4917,45361,Midwest,West North Central
+2017,4,Missouri,2017 Q4,9.23225,45867,Midwest,West North Central
+2017,1,Montana,2017 Q1,8.507275,45674,West,Mountain
+2017,2,Montana,2017 Q2,2.87455,46115,West,Mountain
+2017,3,Montana,2017 Q3,14.5568,46107,West,Mountain
+2017,4,Montana,2017 Q4,7.3563,46299,West,Mountain
+2017,1,Nebraska,2017 Q1,6.6181375000000005,49354,Midwest,West North Central
+2017,2,Nebraska,2017 Q2,6.430125,49992,Midwest,West North Central
+2017,3,Nebraska,2017 Q3,8.7332125,50237,Midwest,West North Central
+2017,4,Nebraska,2017 Q4,6.0177875,50988,Midwest,West North Central
+2017,1,Nevada,2017 Q1,5.85046,46869,West,Mountain
+2017,2,Nevada,2017 Q2,4.99135,47376,West,Mountain
+2017,3,Nevada,2017 Q3,7.295166666666667,47855,West,Mountain
+2017,4,Nevada,2017 Q4,10.87716,47749,West,Mountain
+2017,1,New Hampshire,2017 Q1,5.154171428571429,57544,Northeast,New England
+2017,2,New Hampshire,2017 Q2,4.093185714285714,57926,Northeast,New England
+2017,3,New Hampshire,2017 Q3,5.983214285714285,58906,Northeast,New England
+2017,4,New Hampshire,2017 Q4,4.61066,59083,Northeast,New England
+2017,1,New Jersey,2017 Q1,7.956799999999999,61484,Northeast,Middle Atlantic
+2017,2,New Jersey,2017 Q2,6.9373249999999995,62265,Northeast,Middle Atlantic
+2017,3,New Jersey,2017 Q3,7.988895238095237,62784,Northeast,Middle Atlantic
+2017,4,New Jersey,2017 Q4,7.888679999999999,63313,Northeast,Middle Atlantic
+2017,1,New Mexico,2017 Q1,7.0082375,39085,West,Mountain
+2017,2,New Mexico,2017 Q2,8.799857142857142,39289,West,Mountain
+2017,3,New Mexico,2017 Q3,6.5132,39566,West,Mountain
+2017,4,New Mexico,2017 Q4,7.0533600000000005,39851,West,Mountain
+2017,1,New York,2017 Q1,6.668804347826087,61692,Northeast,Middle Atlantic
+2017,2,New York,2017 Q2,5.8736375,62476,Northeast,Middle Atlantic
+2017,3,New York,2017 Q3,7.6782,63074,Northeast,Middle Atlantic
+2017,4,New York,2017 Q4,7.030068,64376,Northeast,Middle Atlantic
+2017,1,North Carolina,2017 Q1,6.914557142857143,44023,South,South Atlantic
+2017,2,North Carolina,2017 Q2,6.399557142857144,44401,South,South Atlantic
+2017,3,North Carolina,2017 Q3,8.40595,44731,South,South Atlantic
+2017,4,North Carolina,2017 Q4,8.03214,45175,South,South Atlantic
+2017,1,North Dakota,2017 Q1,6.1316500000000005,52176,Midwest,West North Central
+2017,2,North Dakota,2017 Q2,4.34515,52668,Midwest,West North Central
+2017,3,North Dakota,2017 Q3,9.89165,52345,Midwest,West North Central
+2017,4,North Dakota,2017 Q4,5.7661,52780,Midwest,West North Central
+2017,1,Ohio,2017 Q1,8.526663888888889,46087,Midwest,East North Central
+2017,2,Ohio,2017 Q2,6.407490666666667,46436,Midwest,East North Central
+2017,3,Ohio,2017 Q3,9.443082666666665,46822,Midwest,East North Central
+2017,4,Ohio,2017 Q4,9.465150666666666,47233,Midwest,East North Central
+2017,1,Oklahoma,2017 Q1,7.176585714285714,43523,South,West South Central
+2017,2,Oklahoma,2017 Q2,7.386328571428572,44299,South,West South Central
+2017,3,Oklahoma,2017 Q3,8.823114285714286,44672,South,West South Central
+2017,4,Oklahoma,2017 Q4,7.167585714285714,45147,South,West South Central
+2017,1,Oregon,2017 Q1,9.459275,47154,West,Pacific
+2017,2,Oregon,2017 Q2,4.27293125,47845,West,Pacific
+2017,3,Oregon,2017 Q3,18.73048,48141,West,Pacific
+2017,4,Oregon,2017 Q4,11.79676875,48823,West,Pacific
+2017,1,Pennsylvania,2017 Q1,9.286328,51568,Northeast,Middle Atlantic
+2017,2,Pennsylvania,2017 Q2,7.869832,52040,Northeast,Middle Atlantic
+2017,3,Pennsylvania,2017 Q3,10.139564,52728,Northeast,Middle Atlantic
+2017,4,Pennsylvania,2017 Q4,10.445988,53294,Northeast,Middle Atlantic
+2017,1,Rhode Island,2017 Q1,5.2050600000000005,49942,Northeast,New England
+2017,2,Rhode Island,2017 Q2,5.10034,50606,Northeast,New England
+2017,3,Rhode Island,2017 Q3,6.40096,51620,Northeast,New England
+2017,4,Rhode Island,2017 Q4,6.660259999999999,51629,Northeast,New England
+2017,1,South Carolina,2017 Q1,8.044006666666666,42336,South,South Atlantic
+2017,2,South Carolina,2017 Q2,7.099376923076923,42701,South,South Atlantic
+2017,3,South Carolina,2017 Q3,8.256538461538462,42858,South,South Atlantic
+2017,4,South Carolina,2017 Q4,7.974830769230769,43103,South,South Atlantic
+2017,1,South Dakota,2017 Q1,6.694171428571429,50113,Midwest,West North Central
+2017,2,South Dakota,2017 Q2,4.864314285714286,50220,Midwest,West North Central
+2017,3,South Dakota,2017 Q3,7.522371428571428,50077,Midwest,West North Central
+2017,4,South Dakota,2017 Q4,5.111071428571429,50107,Midwest,West North Central
+2017,1,Tennessee,2017 Q1,7.446135714285715,44405,South,East South Central
+2017,2,Tennessee,2017 Q2,6.620896428571428,44705,South,East South Central
+2017,3,Tennessee,2017 Q3,8.855004347826087,44907,South,East South Central
+2017,4,Tennessee,2017 Q4,8.5296,45472,South,East South Central
+2017,1,Texas,2017 Q1,8.458041935483871,48394,South,West South Central
+2017,2,Texas,2017 Q2,8.6831,48935,South,West South Central
+2017,3,Texas,2017 Q3,9.37944827586207,49454,South,West South Central
+2017,4,Texas,2017 Q4,8.220168965517242,50136,South,West South Central
+2017,1,Utah,2017 Q1,9.32296923076923,42498,West,Mountain
+2017,2,Utah,2017 Q2,5.117592307692307,42953,West,Mountain
+2017,3,Utah,2017 Q3,8.98709090909091,43531,West,Mountain
+2017,4,Utah,2017 Q4,8.766323076923076,44008,West,Mountain
+2017,2,Vermont,2017 Q2,4.3311,50576,Northeast,New England
+2017,3,Vermont,2017 Q3,6.178100000000001,50993,Northeast,New England
+2017,4,Vermont,2017 Q4,5.372366666666667,51241,Northeast,New England
+2017,1,Vermont,2017 Q1,5.4557,50291,Northeast,New England
+2017,1,Virginia,2017 Q1,6.213328571428571,54286,South,South Atlantic
+2017,2,Virginia,2017 Q2,6.527652380952381,54691,South,South Atlantic
+2017,3,Virginia,2017 Q3,8.236880952380952,55061,South,South Atlantic
+2017,4,Virginia,2017 Q4,7.600785714285714,55487,South,South Atlantic
+2017,1,Washington,2017 Q1,8.24155,56444,West,Pacific
+2017,2,Washington,2017 Q2,4.27685,56960,West,Pacific
+2017,3,Washington,2017 Q3,14.198575000000002,57503,West,Pacific
+2017,4,Washington,2017 Q4,9.912275000000001,58222,West,Pacific
+2017,1,West Virginia,2017 Q1,7.760800000000001,38712,South,South Atlantic
+2017,2,West Virginia,2017 Q2,6.788146666666666,38869,South,South Atlantic
+2017,3,West Virginia,2017 Q3,9.418273333333333,39293,South,South Atlantic
+2017,4,West Virginia,2017 Q4,8.497113333333333,39658,South,South Atlantic
+2017,1,Wisconsin,2017 Q1,7.461428,48052,Midwest,East North Central
+2017,2,Wisconsin,2017 Q2,4.870327272727272,48437,Midwest,East North Central
+2017,3,Wisconsin,2017 Q3,7.587713636363636,49121,Midwest,East North Central
+2017,4,Wisconsin,2017 Q4,6.462817647058824,49404,Midwest,East North Central
+2017,1,Wyoming,2017 Q1,4.912986956521739,56021,West,Mountain
+2017,2,Wyoming,2017 Q2,3.553604347826087,57055,West,Mountain
+2017,3,Wyoming,2017 Q3,9.599208108108108,57418,West,Mountain
+2017,4,Wyoming,2017 Q4,4.0105826086956515,58009,West,Mountain
+2018,1,Alabama,2018 Q1,7.7156416666666665,41072,South,East South Central
+2018,2,Alabama,2018 Q2,9.6208875,41310,South,East South Central
+2018,3,Alabama,2018 Q3,8.965304166666668,41608,South,East South Central
+2018,4,Alabama,2018 Q4,7.520033333333333,42129,South,East South Central
+2018,1,Alaska,2018 Q1,12.344075,58642,West,Pacific
+2018,2,Alaska,2018 Q2,4.462014285714285,59093,West,Pacific
+2018,3,Alaska,2018 Q3,4.527569565217392,60119,West,Pacific
+2018,4,Alaska,2018 Q4,12.4884375,60547,West,Pacific
+2018,1,Arizona,2018 Q1,7.330758333333333,44760,West,Mountain
+2018,2,Arizona,2018 Q2,8.376125,45082,West,Mountain
+2018,3,Arizona,2018 Q3,7.655866666666667,45701,West,Mountain
+2018,4,Arizona,2018 Q4,7.101675,46246,West,Mountain
+2018,1,Arkansas,2018 Q1,7.9634833333333335,42819,South,West South Central
+2018,2,Arkansas,2018 Q2,9.291438461538462,43033,South,West South Central
+2018,3,Arkansas,2018 Q3,10.625361538461537,43548,South,West South Central
+2018,4,Arkansas,2018 Q4,7.253992307692308,44110,South,West South Central
+2018,1,California,2018 Q1,10.908793421052632,60272,West,Pacific
+2018,2,California,2018 Q2,8.716678666666667,61116,West,Pacific
+2018,3,California,2018 Q3,13.335851898734179,61953,West,Pacific
+2018,4,California,2018 Q4,14.02189358974359,62728,West,Pacific
+2018,1,Colorado,2018 Q1,7.183016666666667,57090,West,Mountain
+2018,2,Colorado,2018 Q2,6.30365,57888,West,Mountain
+2018,3,Colorado,2018 Q3,9.1813,58932,West,Mountain
+2018,4,Colorado,2018 Q4,5.899966666666667,59957,West,Mountain
+2018,1,Connecticut,2018 Q1,7.036122222222222,71922,Northeast,New England
+2018,2,Connecticut,2018 Q2,5.8078,72407,Northeast,New England
+2018,3,Connecticut,2018 Q3,7.663022222222223,73597,Northeast,New England
+2018,4,Connecticut,2018 Q4,4.2925,73815,Northeast,New England
+2018,1,Delaware,2018 Q1,7.5156374999999995,51718,South,South Atlantic
+2018,2,Delaware,2018 Q2,6.1836625000000005,52278,South,South Atlantic
+2018,3,Delaware,2018 Q3,7.2626125,53123,South,South Atlantic
+2018,4,Delaware,2018 Q4,6.2207625,53682,South,South Atlantic
+2018,1,District Of Columbia,2018 Q1,8.1043,81381,South,South Atlantic
+2018,2,District Of Columbia,2018 Q2,6.831,82074,South,South Atlantic
+2018,3,District Of Columbia,2018 Q3,8.0321,83448,South,South Atlantic
+2018,4,District Of Columbia,2018 Q4,7.4448,84070,South,South Atlantic
+2018,1,Florida,2018 Q1,6.830613793103449,50499,South,South Atlantic
+2018,2,Florida,2018 Q2,7.000493103448275,50985,South,South Atlantic
+2018,3,Florida,2018 Q3,6.783404347826087,51875,South,South Atlantic
+2018,4,Florida,2018 Q4,6.163422727272728,52717,South,South Atlantic
+2018,1,Georgia,2018 Q1,8.370464,46115,South,South Atlantic
+2018,2,Georgia,2018 Q2,8.212548,46543,South,South Atlantic
+2018,3,Georgia,2018 Q3,7.391696,47230,South,South Atlantic
+2018,4,Georgia,2018 Q4,6.907795999999999,47491,South,South Atlantic
+2018,1,Hawaii,2018 Q1,5.18035,51525,West,Pacific
+2018,2,Hawaii,2018 Q2,4.01335,51929,West,Pacific
+2018,3,Hawaii,2018 Q3,4.26465,52332,West,Pacific
+2018,4,Hawaii,2018 Q4,2.9779999999999998,52921,West,Pacific
+2018,1,Idaho,2018 Q1,8.097,42631,West,Mountain
+2018,2,Idaho,2018 Q2,4.2359285714285715,42930,West,Mountain
+2018,3,Idaho,2018 Q3,10.628133333333333,43258,West,Mountain
+2018,4,Idaho,2018 Q4,10.78835,43961,West,Mountain
+2018,1,Illinois,2018 Q1,9.160739285714286,55596,Midwest,East North Central
+2018,2,Illinois,2018 Q2,8.700478571428572,56289,Midwest,East North Central
+2018,3,Illinois,2018 Q3,10.476066666666666,56822,Midwest,East North Central
+2018,4,Illinois,2018 Q4,9.637870370370372,57414,Midwest,East North Central
+2018,1,Indiana,2018 Q1,9.229006666666667,46450,Midwest,East North Central
+2018,2,Indiana,2018 Q2,8.575572093023256,46674,Midwest,East North Central
+2018,3,Indiana,2018 Q3,9.54203953488372,47066,Midwest,East North Central
+2018,4,Indiana,2018 Q4,8.707161111111112,47584,Midwest,East North Central
+2018,1,Iowa,2018 Q1,9.265269565217391,48317,Midwest,West North Central
+2018,2,Iowa,2018 Q2,7.577891304347825,48778,Midwest,West North Central
+2018,3,Iowa,2018 Q3,8.633147826086956,49181,Midwest,West North Central
+2018,4,Iowa,2018 Q4,7.3596,50324,Midwest,West North Central
+2018,1,Kansas,2018 Q1,9.46594,49752,Midwest,West North Central
+2018,2,Kansas,2018 Q2,7.8727800000000006,50366,Midwest,West North Central
+2018,3,Kansas,2018 Q3,8.891275,50931,Midwest,West North Central
+2018,4,Kansas,2018 Q4,6.796975,51598,Midwest,West North Central
+2018,1,Kentucky,2018 Q1,7.850833333333334,41430,South,East South Central
+2018,2,Kentucky,2018 Q2,8.324590476190476,41854,South,East South Central
+2018,3,Kentucky,2018 Q3,8.907599999999999,42078,South,East South Central
+2018,4,Kentucky,2018 Q4,7.656352380952381,42523,South,East South Central
+2018,1,Louisiana,2018 Q1,7.289141176470588,45296,South,West South Central
+2018,2,Louisiana,2018 Q2,9.312852941176471,45906,South,West South Central
+2018,3,Louisiana,2018 Q3,10.255235294117647,46291,South,West South Central
+2018,4,Louisiana,2018 Q4,6.971411764705883,46697,South,West South Central
+2018,1,Maine,2018 Q1,6.7802,47487,Northeast,New England
+2018,2,Maine,2018 Q2,4.572123076923076,47916,Northeast,New England
+2018,3,Maine,2018 Q3,5.898823076923076,48389,Northeast,New England
+2018,4,Maine,2018 Q4,3.418769230769231,48723,Northeast,New England
+2018,1,Maryland,2018 Q1,7.8454999999999995,59817,South,South Atlantic
+2018,2,Maryland,2018 Q2,6.98048,60311,South,South Atlantic
+2018,3,Maryland,2018 Q3,7.62394,60913,South,South Atlantic
+2018,4,Maryland,2018 Q4,5.0191,61235,South,South Atlantic
+2018,1,Massachusetts,2018 Q1,4.7499,68781,Northeast,New England
+2018,2,Massachusetts,2018 Q2,4.82875,69260,Northeast,New England
+2018,3,Massachusetts,2018 Q3,8.069445454545455,69988,Northeast,New England
+2018,4,Massachusetts,2018 Q4,4.512463636363637,70776,Northeast,New England
+2018,1,Michigan,2018 Q1,8.518096296296296,47006,Midwest,East North Central
+2018,2,Michigan,2018 Q2,7.488582142857142,47265,Midwest,East North Central
+2018,3,Michigan,2018 Q3,9.40493076923077,47660,Midwest,East North Central
+2018,4,Michigan,2018 Q4,7.8293,47905,Midwest,East North Central
+2018,1,Minnesota,2018 Q1,7.837069230769231,55513,Midwest,West North Central
+2018,2,Minnesota,2018 Q2,6.684438461538462,56213,Midwest,West North Central
+2018,3,Minnesota,2018 Q3,7.639061538461538,56797,Midwest,West North Central
+2018,4,Minnesota,2018 Q4,6.032108333333333,57645,Midwest,West North Central
+2018,1,Mississippi,2018 Q1,7.24929,37374,South,East South Central
+2018,2,Mississippi,2018 Q2,8.98423,37761,South,East South Central
+2018,3,Mississippi,2018 Q3,9.44929,37968,South,East South Central
+2018,4,Mississippi,2018 Q4,7.075659999999999,38460,South,East South Central
+2018,1,Missouri,2018 Q1,10.7718,46246,Midwest,West North Central
+2018,2,Missouri,2018 Q2,8.735,47001,Midwest,West North Central
+2018,3,Missouri,2018 Q3,10.12795,47245,Midwest,West North Central
+2018,4,Missouri,2018 Q4,8.59,47826,Midwest,West North Central
+2018,1,Montana,2018 Q1,6.433325,46908,West,Mountain
+2018,2,Montana,2018 Q2,3.611125,47356,West,Mountain
+2018,3,Montana,2018 Q3,7.859675,47697,West,Mountain
+2018,4,Montana,2018 Q4,4.82835,48451,West,Mountain
+2018,1,Nebraska,2018 Q1,8.053575,50973,Midwest,West North Central
+2018,2,Nebraska,2018 Q2,7.196875,51333,Midwest,West North Central
+2018,3,Nebraska,2018 Q3,8.278575,51898,Midwest,West North Central
+2018,4,Nebraska,2018 Q4,5.268775,53450,Midwest,West North Central
+2018,1,Nevada,2018 Q1,7.76738,48982,West,Mountain
+2018,2,Nevada,2018 Q2,5.5907,49177,West,Mountain
+2018,3,Nevada,2018 Q3,9.117942857142857,49765,West,Mountain
+2018,4,Nevada,2018 Q4,8.48314,50732,West,Mountain
+2018,1,New Hampshire,2018 Q1,4.33485,60113,Northeast,New England
+2018,2,New Hampshire,2018 Q2,4.836916666666666,60377,Northeast,New England
+2018,3,New Hampshire,2018 Q3,6.303083333333333,61138,Northeast,New England
+2018,4,New Hampshire,2018 Q4,2.9460166666666665,61644,Northeast,New England
+2018,1,New Jersey,2018 Q1,7.760515,63975,Northeast,Middle Atlantic
+2018,2,New Jersey,2018 Q2,7.300425,64480,Northeast,Middle Atlantic
+2018,3,New Jersey,2018 Q3,8.489855,65271,Northeast,Middle Atlantic
+2018,4,New Jersey,2018 Q4,6.15447,65899,Northeast,Middle Atlantic
+2018,1,New Mexico,2018 Q1,7.82746,40465,West,Mountain
+2018,2,New Mexico,2018 Q2,9.514840000000001,40889,West,Mountain
+2018,3,New Mexico,2018 Q3,6.455920000000001,41477,West,Mountain
+2018,4,New Mexico,2018 Q4,6.921460000000001,41955,West,Mountain
+2018,1,New York,2018 Q1,7.504212,63990,Northeast,Middle Atlantic
+2018,2,New York,2018 Q2,6.789356000000001,64622,Northeast,Middle Atlantic
+2018,3,New York,2018 Q3,8.450044,65273,Northeast,Middle Atlantic
+2018,4,New York,2018 Q4,5.8448720000000005,65525,Northeast,Middle Atlantic
+2018,1,North Carolina,2018 Q1,6.852229411764705,45557,South,South Atlantic
+2018,2,North Carolina,2018 Q2,7.391805882352941,46054,South,South Atlantic
+2018,3,North Carolina,2018 Q3,7.803473333333333,46533,South,South Atlantic
+2018,4,North Carolina,2018 Q4,5.641666666666667,47249,South,South Atlantic
+2018,1,North Dakota,2018 Q1,6.1533,54037,Midwest,West North Central
+2018,2,North Dakota,2018 Q2,5.875,54805,Midwest,West North Central
+2018,3,North Dakota,2018 Q3,8.309650000000001,55631,Midwest,West North Central
+2018,4,North Dakota,2018 Q4,4.60805,57073,Midwest,West North Central
+2018,1,Ohio,2018 Q1,8.360046666666667,47621,Midwest,East North Central
+2018,2,Ohio,2018 Q2,8.211922368421051,48017,Midwest,East North Central
+2018,3,Ohio,2018 Q3,9.244854285714286,48578,Midwest,East North Central
+2018,4,Ohio,2018 Q4,8.26452676056338,49065,Midwest,East North Central
+2018,1,Oklahoma,2018 Q1,8.606457142857142,45600,South,West South Central
+2018,2,Oklahoma,2018 Q2,8.008066666666666,46027,South,West South Central
+2018,3,Oklahoma,2018 Q3,9.539942857142858,46654,South,West South Central
+2018,4,Oklahoma,2018 Q4,5.991485714285714,47311,South,West South Central
+2018,1,Oregon,2018 Q1,8.54438125,49672,West,Pacific
+2018,2,Oregon,2018 Q2,4.526933333333333,50212,West,Pacific
+2018,3,Oregon,2018 Q3,13.694260000000002,50974,West,Pacific
+2018,4,Oregon,2018 Q4,11.60444,51400,West,Pacific
+2018,1,Pennsylvania,2018 Q1,9.188139999999999,54076,Northeast,Middle Atlantic
+2018,2,Pennsylvania,2018 Q2,8.763572,54583,Northeast,Middle Atlantic
+2018,3,Pennsylvania,2018 Q3,9.341872,55468,Northeast,Middle Atlantic
+2018,4,Pennsylvania,2018 Q4,7.521776,56012,Northeast,Middle Atlantic
+2018,1,Rhode Island,2018 Q1,5.721775,52141,Northeast,New England
+2018,2,Rhode Island,2018 Q2,5.466575000000001,52336,Northeast,New England
+2018,3,Rhode Island,2018 Q3,7.531575,52666,Northeast,New England
+2018,4,Rhode Island,2018 Q4,4.777175,53562,Northeast,New England
+2018,1,South Carolina,2018 Q1,7.410992307692307,43458,South,South Atlantic
+2018,2,South Carolina,2018 Q2,7.378914285714286,43825,South,South Atlantic
+2018,3,South Carolina,2018 Q3,7.824146153846153,44333,South,South Atlantic
+2018,4,South Carolina,2018 Q4,6.7132000000000005,44967,South,South Atlantic
+2018,1,South Dakota,2018 Q1,7.178014285714285,51304,Midwest,West North Central
+2018,2,South Dakota,2018 Q2,5.895242857142857,51425,Midwest,West North Central
+2018,3,South Dakota,2018 Q3,7.904414285714286,51906,Midwest,West North Central
+2018,4,South Dakota,2018 Q4,5.434871428571428,53937,Midwest,West North Central
+2018,1,Tennessee,2018 Q1,7.7901625,46060,South,East South Central
+2018,2,Tennessee,2018 Q2,8.13068125,46453,South,East South Central
+2018,3,Tennessee,2018 Q3,8.9201,47241,South,East South Central
+2018,4,Tennessee,2018 Q4,7.24705,47738,South,East South Central
+2018,1,Texas,2018 Q1,8.32905925925926,50981,South,West South Central
+2018,2,Texas,2018 Q2,9.01616,51575,South,West South Central
+2018,3,Texas,2018 Q3,10.983032000000001,52353,South,West South Central
+2018,4,Texas,2018 Q4,6.432032,53046,South,West South Central
+2018,1,Utah,2018 Q1,5.998741666666667,44909,West,Mountain
+2018,2,Utah,2018 Q2,4.925791666666666,45364,West,Mountain
+2018,3,Utah,2018 Q3,12.876234615384616,45895,West,Mountain
+2018,4,Utah,2018 Q4,7.77165,46495,West,Mountain
+2018,1,Vermont,2018 Q1,6.781666666666666,51648,Northeast,New England
+2018,2,Vermont,2018 Q2,3.9525,52160,Northeast,New England
+2018,3,Vermont,2018 Q3,5.9443,52607,Northeast,New England
+2018,4,Vermont,2018 Q4,3.3245,53219,Northeast,New England
+2018,1,Virginia,2018 Q1,6.603604761904762,55860,South,South Atlantic
+2018,2,Virginia,2018 Q2,6.805447619047619,56231,South,South Atlantic
+2018,3,Virginia,2018 Q3,7.485804761904761,56844,South,South Atlantic
+2018,4,Virginia,2018 Q4,6.296366666666667,57492,South,South Atlantic
+2018,1,Washington,2018 Q1,6.801025000000001,59282,West,Pacific
+2018,2,Washington,2018 Q2,4.823375,59602,West,Pacific
+2018,3,Washington,2018 Q3,10.373525,60625,West,Pacific
+2018,4,Washington,2018 Q4,10.41565,61385,West,Pacific
+2018,1,West Virginia,2018 Q1,7.27924,40198,South,South Atlantic
+2018,2,West Virginia,2018 Q2,8.342540000000001,40839,South,South Atlantic
+2018,3,West Virginia,2018 Q3,8.786926666666666,41779,South,South Atlantic
+2018,4,West Virginia,2018 Q4,7.245946666666667,42266,South,South Atlantic
+2018,1,Wisconsin,2018 Q1,8.9445,50268,Midwest,East North Central
+2018,2,Wisconsin,2018 Q2,6.845325,50462,Midwest,East North Central
+2018,3,Wisconsin,2018 Q3,7.813375,51129,Midwest,East North Central
+2018,4,Wisconsin,2018 Q4,7.849728571428572,51753,Midwest,East North Central
+2018,1,Wyoming,2018 Q1,4.4447,59028,West,Mountain
+2018,2,Wyoming,2018 Q2,3.8386416666666663,59831,West,Mountain
+2018,3,Wyoming,2018 Q3,8.324666666666667,60917,West,Mountain
+2018,4,Wyoming,2018 Q4,3.9888166666666667,61984,West,Mountain
+2019,1,Alabama,2019 Q1,7.101520833333333,42817,South,East South Central
+2019,2,Alabama,2019 Q2,8.763929166666667,43150,South,East South Central
+2019,3,Alabama,2019 Q3,10.066112500000001,43453,South,East South Central
+2019,4,Alabama,2019 Q4,7.528682608695653,43697,South,East South Central
+2019,1,Alaska,2019 Q1,14.839862499999999,60895,West,Pacific
+2019,2,Alaska,2019 Q2,5.723485714285714,61207,West,Pacific
+2019,3,Alaska,2019 Q3,11.228133333333332,61512,West,Pacific
+2019,4,Alaska,2019 Q4,9.901466666666666,61583,West,Pacific
+2019,1,Arizona,2019 Q1,5.643891666666666,47374,West,Mountain
+2019,2,Arizona,2019 Q2,6.110741666666667,47882,West,Mountain
+2019,3,Arizona,2019 Q3,6.440408333333334,48356,West,Mountain
+2019,4,Arizona,2019 Q4,7.567208333333333,48812,West,Mountain
+2019,1,Arkansas,2019 Q1,7.455466666666666,44043,South,West South Central
+2019,2,Arkansas,2019 Q2,8.207253333333334,44056,South,West South Central
+2019,3,Arkansas,2019 Q3,10.961625,44469,South,West South Central
+2019,4,Arkansas,2019 Q4,8.700383333333333,44681,South,West South Central
+2019,1,California,2019 Q1,7.951534246575342,63823,West,Pacific
+2019,2,California,2019 Q2,7.1250797297297295,64632,West,Pacific
+2019,3,California,2019 Q3,8.815994666666667,65071,West,Pacific
+2019,4,California,2019 Q4,11.555564383561643,66130,West,Pacific
+2019,1,Colorado,2019 Q1,9.2406,61333,West,Mountain
+2019,2,Colorado,2019 Q2,4.669527272727273,61807,West,Mountain
+2019,3,Colorado,2019 Q3,6.386427272727272,62622,West,Mountain
+2019,4,Colorado,2019 Q4,7.278918181818182,62745,West,Mountain
+2019,1,Connecticut,2019 Q1,5.681722222222223,75318,Northeast,New England
+2019,2,Connecticut,2019 Q2,4.654455555555556,75290,Northeast,New England
+2019,3,Connecticut,2019 Q3,6.700866666666666,75333,Northeast,New England
+2019,4,Connecticut,2019 Q4,5.5292666666666666,76112,Northeast,New England
+2019,1,Delaware,2019 Q1,7.793033333333334,53836,South,South Atlantic
+2019,2,Delaware,2019 Q2,6.010566666666667,54172,South,South Atlantic
+2019,3,Delaware,2019 Q3,8.05545,54374,South,South Atlantic
+2019,4,Delaware,2019 Q4,6.983816666666667,54402,South,South Atlantic
+2019,1,District Of Columbia,2019 Q1,8.1333,83766,South,South Atlantic
+2019,2,District Of Columbia,2019 Q2,6.4143,84506,South,South Atlantic
+2019,3,District Of Columbia,2019 Q3,8.4897,84938,South,South Atlantic
+2019,4,District Of Columbia,2019 Q4,7.3536,85361,South,South Atlantic
+2019,1,Florida,2019 Q1,6.365136363636364,53833,South,South Atlantic
+2019,2,Florida,2019 Q2,7.537609999999999,54403,South,South Atlantic
+2019,3,Florida,2019 Q3,7.191485714285714,54702,South,South Atlantic
+2019,4,Florida,2019 Q4,5.436661538461539,55216,South,South Atlantic
+2019,1,Georgia,2019 Q1,7.8967136363636365,48610,South,South Atlantic
+2019,2,Georgia,2019 Q2,8.970828571428573,49015,South,South Atlantic
+2019,3,Georgia,2019 Q3,9.502265,49223,South,South Atlantic
+2019,4,Georgia,2019 Q4,7.61907894736842,49498,South,South Atlantic
+2019,1,Hawaii,2019 Q1,3.3399,53836,West,Pacific
+2019,2,Hawaii,2019 Q2,3.9111000000000002,54393,West,Pacific
+2019,3,Hawaii,2019 Q3,3.5606999999999998,55007,West,Pacific
+2019,4,Hawaii,2019 Q4,3.1308,55511,West,Pacific
+2019,1,Idaho,2019 Q1,8.83985,45181,West,Mountain
+2019,2,Idaho,2019 Q2,3.7060874999999998,45715,West,Mountain
+2019,3,Idaho,2019 Q3,5.46165,46209,West,Mountain
+2019,4,Idaho,2019 Q4,12.2953,46526,West,Mountain
+2019,1,Illinois,2019 Q1,9.971944444444444,57992,Midwest,East North Central
+2019,2,Illinois,2019 Q2,7.489618518518518,58106,Midwest,East North Central
+2019,3,Illinois,2019 Q3,9.346007407407408,58648,Midwest,East North Central
+2019,4,Illinois,2019 Q4,9.965042857142858,58997,Midwest,East North Central
+2019,1,Indiana,2019 Q1,9.59234705882353,48380,Midwest,East North Central
+2019,2,Indiana,2019 Q2,7.334097142857143,48560,Midwest,East North Central
+2019,3,Indiana,2019 Q3,8.93890294117647,48888,Midwest,East North Central
+2019,4,Indiana,2019 Q4,9.34653142857143,49155,Midwest,East North Central
+2019,1,Iowa,2019 Q1,9.5037,50038,Midwest,West North Central
+2019,2,Iowa,2019 Q2,5.930613043478261,49767,Midwest,West North Central
+2019,3,Iowa,2019 Q3,7.798795652173913,50766,Midwest,West North Central
+2019,4,Iowa,2019 Q4,7.355521739130435,50896,Midwest,West North Central
+2019,1,Kansas,2019 Q1,9.049225,52385,Midwest,West North Central
+2019,2,Kansas,2019 Q2,6.568966666666667,52522,Midwest,West North Central
+2019,3,Kansas,2019 Q3,8.708166666666667,53137,Midwest,West North Central
+2019,4,Kansas,2019 Q4,10.7842,53399,Midwest,West North Central
+2019,1,Kentucky,2019 Q1,7.055055,43372,South,East South Central
+2019,2,Kentucky,2019 Q2,7.004915789473684,43689,South,East South Central
+2019,3,Kentucky,2019 Q3,9.1824,44005,South,East South Central
+2019,4,Kentucky,2019 Q4,6.70038,44414,South,East South Central
+2019,1,Louisiana,2019 Q1,6.9264117647058825,47369,South,West South Central
+2019,2,Louisiana,2019 Q2,9.004894117647058,47486,South,West South Central
+2019,3,Louisiana,2019 Q3,9.325917647058825,47722,South,West South Central
+2019,4,Louisiana,2019 Q4,7.516217647058824,48085,South,West South Central
+2019,1,Maine,2019 Q1,5.5780076923076924,50061,Northeast,New England
+2019,2,Maine,2019 Q2,2.946423076923077,50516,Northeast,New England
+2019,3,Maine,2019 Q3,5.61853,50910,Northeast,New England
+2019,4,Maine,2019 Q4,5.537716666666667,51398,Northeast,New England
+2019,1,Maryland,2019 Q1,7.636100000000001,61716,South,South Atlantic
+2019,2,Maryland,2019 Q2,6.18104,62248,South,South Atlantic
+2019,3,Maryland,2019 Q3,8.16806,62405,South,South Atlantic
+2019,4,Maryland,2019 Q4,8.81918,62874,South,South Atlantic
+2019,1,Massachusetts,2019 Q1,4.8706249999999995,72747,Northeast,New England
+2019,2,Massachusetts,2019 Q2,4.088236363636364,73063,Northeast,New England
+2019,3,Massachusetts,2019 Q3,6.866663636363636,73184,Northeast,New England
+2019,4,Massachusetts,2019 Q4,4.904463636363636,73842,Northeast,New England
+2019,1,Michigan,2019 Q1,9.46522380952381,48689,Midwest,East North Central
+2019,2,Michigan,2019 Q2,6.264619047619047,49054,Midwest,East North Central
+2019,3,Michigan,2019 Q3,7.113985,49261,Midwest,East North Central
+2019,4,Michigan,2019 Q4,8.214235,49556,Midwest,East North Central
+2019,1,Minnesota,2019 Q1,8.109716666666666,57894,Midwest,West North Central
+2019,2,Minnesota,2019 Q2,5.189354545454545,58192,Midwest,West North Central
+2019,3,Minnesota,2019 Q3,6.680528571428572,58876,Midwest,West North Central
+2019,4,Minnesota,2019 Q4,6.927714285714286,59226,Midwest,West North Central
+2019,1,Mississippi,2019 Q1,7.848800000000001,39041,South,East South Central
+2019,2,Mississippi,2019 Q2,8.4317,39184,South,East South Central
+2019,3,Mississippi,2019 Q3,9.64195,39646,South,East South Central
+2019,4,Mississippi,2019 Q4,8.050650000000001,39917,South,East South Central
+2019,1,Missouri,2019 Q1,9.6096,48514,Midwest,West North Central
+2019,2,Missouri,2019 Q2,7.59405,48719,Midwest,West North Central
+2019,3,Missouri,2019 Q3,9.379349999999999,49229,Midwest,West North Central
+2019,4,Missouri,2019 Q4,9.20335,49509,Midwest,West North Central
+2019,1,Montana,2019 Q1,8.477225,49531,West,Mountain
+2019,2,Montana,2019 Q2,2.6971249999999998,49859,West,Mountain
+2019,3,Montana,2019 Q3,4.6013875,50673,West,Mountain
+2019,4,Montana,2019 Q4,5.5,50987,West,Mountain
+2019,1,Nebraska,2019 Q1,7.944112499999999,53352,Midwest,West North Central
+2019,2,Nebraska,2019 Q2,5.41775,53478,Midwest,West North Central
+2019,3,Nebraska,2019 Q3,6.5840125,54717,Midwest,West North Central
+2019,4,Nebraska,2019 Q4,4.848825,55158,Midwest,West North Central
+2019,1,Nevada,2019 Q1,5.3499,51870,West,Mountain
+2019,2,Nevada,2019 Q2,3.97902,52415,West,Mountain
+2019,3,Nevada,2019 Q3,5.370340000000001,52735,West,Mountain
+2019,4,Nevada,2019 Q4,8.49436,53429,West,Mountain
+2019,1,New Hampshire,2019 Q1,3.6148166666666666,64387,Northeast,New England
+2019,2,New Hampshire,2019 Q2,3.6414,64602,Northeast,New England
+2019,3,New Hampshire,2019 Q3,6.3439,64810,Northeast,New England
+2019,4,New Hampshire,2019 Q4,4.6118500000000004,65136,Northeast,New England
+2019,1,New Jersey,2019 Q1,7.937885,67680,Northeast,Middle Atlantic
+2019,2,New Jersey,2019 Q2,6.857057894736842,68307,Northeast,Middle Atlantic
+2019,3,New Jersey,2019 Q3,8.182473684210526,68691,Northeast,Middle Atlantic
+2019,4,New Jersey,2019 Q4,6.9604105263157905,69023,Northeast,Middle Atlantic
+2019,1,New Mexico,2019 Q1,5.29972,42788,West,Mountain
+2019,2,New Mexico,2019 Q2,7.1679,43286,West,Mountain
+2019,3,New Mexico,2019 Q3,6.33328,43840,West,Mountain
+2019,4,New Mexico,2019 Q4,7.64496,44138,West,Mountain
+2019,1,New York,2019 Q1,7.041132,66491,Northeast,Middle Atlantic
+2019,2,New York,2019 Q2,5.846236,67303,Northeast,Middle Atlantic
+2019,3,New York,2019 Q3,7.139616,67606,Northeast,Middle Atlantic
+2019,4,New York,2019 Q4,5.844662499999999,68064,Northeast,Middle Atlantic
+2019,1,North Carolina,2019 Q1,6.149714285714286,48188,South,South Atlantic
+2019,2,North Carolina,2019 Q2,7.126864285714285,48580,South,South Atlantic
+2019,3,North Carolina,2019 Q3,9.321176923076923,48864,South,South Atlantic
+2019,4,North Carolina,2019 Q4,6.426646153846154,49303,South,South Atlantic
+2019,1,North Dakota,2019 Q1,7.54335,56919,Midwest,West North Central
+2019,2,North Dakota,2019 Q2,4.995,56294,Midwest,West North Central
+2019,3,North Dakota,2019 Q3,4.3225999999999996,57592,Midwest,West North Central
+2019,4,North Dakota,2019 Q4,4.208349999999999,57665,Midwest,West North Central
+2019,1,Ohio,2019 Q1,9.213331343283581,49565,Midwest,East North Central
+2019,2,Ohio,2019 Q2,7.128053731343284,49803,Midwest,East North Central
+2019,3,Ohio,2019 Q3,9.072401492537313,50153,Midwest,East North Central
+2019,4,Ohio,2019 Q4,8.918057575757576,50610,Midwest,East North Central
+2019,1,Oklahoma,2019 Q1,7.229071428571428,48554,South,West South Central
+2019,2,Oklahoma,2019 Q2,6.9063,48397,South,West South Central
+2019,3,Oklahoma,2019 Q3,8.543383333333333,48707,South,West South Central
+2019,4,Oklahoma,2019 Q4,5.752366666666667,48864,South,West South Central
+2019,1,Oregon,2019 Q1,8.805435714285714,52075,West,Pacific
+2019,2,Oregon,2019 Q2,4.193946666666666,52404,West,Pacific
+2019,3,Oregon,2019 Q3,4.919933333333334,52760,West,Pacific
+2019,4,Oregon,2019 Q4,12.29894,53620,West,Pacific
+2019,1,Pennsylvania,2019 Q1,9.73884347826087,56574,Northeast,Middle Atlantic
+2019,2,Pennsylvania,2019 Q2,7.391917391304347,56873,Northeast,Middle Atlantic
+2019,3,Pennsylvania,2019 Q3,9.158934782608695,57002,Northeast,Middle Atlantic
+2019,4,Pennsylvania,2019 Q4,8.907534782608696,57310,Northeast,Middle Atlantic
+2019,1,Rhode Island,2019 Q1,5.601533333333333,55443,Northeast,New England
+2019,2,Rhode Island,2019 Q2,4.296133333333333,55779,Northeast,New England
+2019,3,Rhode Island,2019 Q3,7.092666666666666,55779,Northeast,New England
+2019,4,Rhode Island,2019 Q4,5.483766666666667,56256,Northeast,New England
+2019,1,South Carolina,2019 Q1,6.706715384615384,46146,South,South Atlantic
+2019,2,South Carolina,2019 Q2,7.348623076923077,46472,South,South Atlantic
+2019,3,South Carolina,2019 Q3,9.005792307692307,46851,South,South Atlantic
+2019,4,South Carolina,2019 Q4,6.9560615384615385,47226,South,South Atlantic
+2019,1,South Dakota,2019 Q1,8.655442857142857,54510,Midwest,West North Central
+2019,2,South Dakota,2019 Q2,4.721971428571428,54440,Midwest,West North Central
+2019,3,South Dakota,2019 Q3,4.783957142857142,55936,Midwest,West North Central
+2019,4,South Dakota,2019 Q4,4.882157142857143,56304,Midwest,West North Central
+2019,1,Tennessee,2019 Q1,6.6122625,48855,South,East South Central
+2019,2,Tennessee,2019 Q2,7.8047625,49192,South,East South Central
+2019,3,Tennessee,2019 Q3,9.6379875,49502,South,East South Central
+2019,4,Tennessee,2019 Q4,7.081164285714286,49759,South,East South Central
+2019,1,Texas,2019 Q1,7.445142857142858,53552,South,West South Central
+2019,2,Texas,2019 Q2,9.924142857142858,53852,South,West South Central
+2019,3,Texas,2019 Q3,8.874635000000001,54227,South,West South Central
+2019,4,Texas,2019 Q4,8.610716666666667,54603,South,West South Central
+2019,1,Utah,2019 Q1,7.312792307692307,48082,West,Mountain
+2019,2,Utah,2019 Q2,3.3244461538461536,48152,West,Mountain
+2019,3,Utah,2019 Q3,5.851853846153846,48752,West,Mountain
+2019,4,Utah,2019 Q4,7.939223076923077,49310,West,Mountain
+2019,1,Vermont,2019 Q1,5.39375,54960,Northeast,New England
+2019,2,Vermont,2019 Q2,3.4875,55226,Northeast,New England
+2019,3,Vermont,2019 Q3,5.396100000000001,55659,Northeast,New England
+2019,4,Vermont,2019 Q4,4.5114,55867,Northeast,New England
+2019,1,Virginia,2019 Q1,6.445004761904762,58353,South,South Atlantic
+2019,2,Virginia,2019 Q2,6.560176190476191,58817,South,South Atlantic
+2019,3,Virginia,2019 Q3,7.926528571428571,59342,South,South Atlantic
+2019,4,Virginia,2019 Q4,6.724785714285714,59760,South,South Atlantic
+2019,1,Washington,2019 Q1,9.8649,63275,West,Pacific
+2019,2,Washington,2019 Q2,4.59555,63884,West,Pacific
+2019,3,Washington,2019 Q3,5.301975,64436,West,Pacific
+2019,4,Washington,2019 Q4,12.339475,65123,West,Pacific
+2019,1,West Virginia,2019 Q1,8.214673333333334,42699,South,South Atlantic
+2019,2,West Virginia,2019 Q2,7.143726666666667,43012,South,South Atlantic
+2019,3,West Virginia,2019 Q3,8.926246666666666,43123,South,South Atlantic
+2019,4,West Virginia,2019 Q4,7.9941571428571425,42928,South,South Atlantic
+2019,1,Wisconsin,2019 Q1,10.6956,52371,Midwest,East North Central
+2019,2,Wisconsin,2019 Q2,5.8100000000000005,52774,Midwest,East North Central
+2019,3,Wisconsin,2019 Q3,7.1213,52908,Midwest,East North Central
+2019,4,Wisconsin,2019 Q4,7.8283249999999995,53502,Midwest,East North Central
+2019,1,Wyoming,2019 Q1,5.114841666666667,63294,West,Mountain
+2019,2,Wyoming,2019 Q2,2.906545833333333,63786,West,Mountain
+2019,3,Wyoming,2019 Q3,4.391925,64536,West,Mountain
+2019,4,Wyoming,2019 Q4,4.044520833333333,64732,West,Mountain
