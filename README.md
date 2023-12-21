@@ -1,8 +1,6 @@
 # Hello everyone! My name is Ryan Shehata. 
 
-It is great to meet you. Currently, I am a financial risk consultant @ Management Solutions. 
-
-My goal is to one day become an expert in all things data science, machine learning, and other emerging technologies that use various quantitative frameworks. I created this repository not only as a space to share some of my academic projects, but to also learn from others how they utilize code to make the world a better place. 
+I created this repository not only as a space to share some of my academic projects, but to also learn from others how they utilize code to make the world a better place. 
 
 # Some additional things about me... 
 
